@@ -1,0 +1,1 @@
+Banks and financial institutions receive thousands of loan applications daily. Manual processing is time-consuming and prone to human bias. This project automates the decision-making process while ensuring transparency, enabling lenders to make faster, fairer, and data-driven decisions.
