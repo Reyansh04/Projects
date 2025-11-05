@@ -1,0 +1,3679 @@
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     User added
+     Users are not connected
+     No mutual friends
+     Users are not connected
+     Friend Added
+     Users are not connected
+     User added
+     Friend Added
+     Users are not connected
+     User added
+     gamma_user_5 
+     Friend Added
+     Post added
+     No friends
+     User added
+     No mutual friends
+     Post added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     Post added
+     No friends
+     No mutual friends
+     Friend Added
+     Users are not connected
+     No friends
+     User added
+     User added
+     No mutual friends
+     User added
+     User added
+     Post added
+     Post added
+     Users are not connected
+     Friend Added
+     Users are not connected
+     Friend Added
+     "suggesting friends is a cool feature." 
+     Friend Added
+     User added
+     User added
+     User added
+     Post added
+     User added
+     No mutual friends
+     No friends
+     User added
+     User added
+     No friends
+     Friend Added
+     User added
+     User added
+     alpha_user_6 
+     No friends
+     Post added
+     Friend Added
+     User added
+     Post added
+     Friend Added
+     Users are not connected
+     User added
+     Friend Added
+     Users are not connected
+     No friends
+     Post added
+     Friend Added
+     User added
+     Users are not connected
+     User added
+     Friend Added
+     User added
+     alpha_user_21 
+     Users are not connected
+     Friend Added
+     Users are not connected
+     User added
+     User added
+     Users are not connected
+     beta_user_19 gamma_user_5 
+     "another post" 
+     No mutual friends
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_6 beta_user_19 gamma_user_5 
+     Users are not connected
+     No mutual friends
+     User added
+     Friend Added
+     Users are not connected
+     User added
+     User added
+     User added
+     No friends
+     Friend Added
+     User added
+     Friend Added
+     No mutual friends
+     Post added
+     Friend Added
+     User added
+     alpha_user_24 gamma_user_11 gamma_user_8 
+     User added
+     User added
+     Post added
+     User added
+     User added
+     alpha_user_24 
+     User added
+     alpha_user_18 
+     No friends
+     Post added
+     gamma_user_26 
+     User added
+     "suggesting friends is a cool feature." 
+     User added
+     No friends
+     No mutual friends
+     "my avl tree is perfectly balanced." 
+     User added
+     Post added
+     Friend Added
+     Users are not connected
+     User added
+     Post added
+     Users are not connected
+     No friends
+     Friend Added
+     User added
+     User added
+     User added
+     "hello world" 
+     "a long post with multiple words to test parsing." 
+     User added
+     Friend Added
+     User added
+       Degree of Separation of users:6
+     No mutual friends
+     Friend Added
+     No mutual friends
+     alpha_user_6 
+     gamma_user_20 
+     Users are not connected
+     "graphs are fascinating data structures." 
+     Friend Added
+     User added
+     Users are not connected
+     "my avl tree is perfectly balanced." 
+     No mutual friends
+     alpha_user_0 
+     Users are not connected
+     No friends
+     Users are not connected
+     User added
+     User added
+     beta_user_25 
+     No mutual friends
+     Friend Added
+     Friend Added
+     beta_user_16 
+     User added
+     Friend Added
+     User added
+     User added
+     Users are not connected
+     "my avl tree is perfectly balanced." 
+     "my avl tree is perfectly balanced." 
+     User added
+     Friend Added
+     User added
+     Users are not connected
+     Users are not connected
+     User added
+     User added
+     Post added
+     Post added
+     "another post" 
+     Post added
+     User added
+     User added
+     User added
+     Post added
+     User added
+     Friend Added
+     Friend Added
+     User added
+     Post added
+     User added
+     gamma_user_47 
+     Post added
+     Friend Added
+     No friends
+     User added
+     Users are not connected
+     User added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Post added
+     alpha_user_33 alpha_user_6 beta_user_19 gamma_user_5 
+     User added
+     Post added
+     Users are not connected
+     User added
+     User added
+       Degree of Separation of users:4
+     User added
+     User added
+     No mutual friends
+     Friend Added
+     User added
+     No mutual friends
+     No mutual friends
+     gamma_user_47 
+     User added
+     User added
+     No friends
+     User added
+     User added
+     User added
+     Friend Added
+     User added
+     Post added
+     User added
+     Post added
+     beta_user_40 
+     User added
+     No mutual friends
+     gamma_user_2 
+     alpha_user_0 gamma_user_50 
+     Friend Added
+     User added
+     Post added
+     gamma_user_26 
+     User added
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     Friend Added
+     Post added
+     No mutual friends
+     Friend Added
+     Friend Added
+     User added
+     Post added
+     Post added
+     User added
+     User added
+     Post added
+     User added
+     User added
+     User added
+     User added
+     User added
+     No mutual friends
+     "another post" 
+     Friend Added
+     No mutual friends
+     No friends
+     No friends
+     User added
+     User added
+     beta_user_40 
+     Users are not connected
+     No friends
+     Post added
+     Friend Added
+     Users are not connected
+     Post added
+     alpha_user_33 alpha_user_72 beta_user_13 beta_user_34 gamma_user_77 
+     alpha_user_0 
+     Users are not connected
+     Friend Added
+     alpha_user_24 gamma_user_11 gamma_user_17 gamma_user_8 
+     beta_user_31 beta_user_55 gamma_user_11 
+     Users are not connected
+     Post added
+     alpha_user_15 alpha_user_21 beta_user_34 gamma_user_11 
+     User added
+     Friend Added
+     "just finished the col106 assignment!" 
+     User added
+     User added
+     User added
+     User added
+     Post added
+     "hello world" 
+     "a long post with multiple words to test parsing." 
+     User added
+     User added
+     Friend Added
+     alpha_user_108 
+     User added
+     Friend Added
+     "graphs are fascinating data structures." 
+     Friend Added
+     User added
+     User added
+     "my avl tree is perfectly balanced." 
+     No friends
+       Degree of Separation of users:5
+     No friends
+     User added
+     No mutual friends
+     User added
+     Friend Added
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     User added
+     beta_user_31 beta_user_55 gamma_user_11 
+     Friend Added
+     Friend Added
+     Friend Added
+     User added
+     alpha_user_69 beta_user_28 gamma_user_47 
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     Users are not connected
+     Friend Added
+     "graphs are fascinating data structures." 
+     Post added
+     Post added
+     User added
+     No mutual friends
+       Degree of Separation of users:3
+     Friend Added
+     User added
+     Post added
+     Friend Added
+     User added
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     Friend Added
+     Friend Added
+     Friend Added
+     User added
+     No mutual friends
+     Users are not connected
+     Post added
+     No friends
+     Post added
+     Friend Added
+     Friend Added
+     User added
+     beta_user_28 gamma_user_95 
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     alpha_user_117 alpha_user_33 alpha_user_72 beta_user_13 beta_user_34 beta_user_76 
+       Degree of Separation of users:3
+     No mutual friends
+     No friends
+     Users are not connected
+     "this is a test post." 
+     Post added
+     "hello world" 
+     Users are not connected
+     Friend Added
+     Post added
+     Users are not connected
+     gamma_user_17 gamma_user_50 gamma_user_56 
+     Post added
+     No friends
+       Degree of Separation of users:3
+     alpha_user_39 gamma_user_65 
+     Users are not connected
+     Friend Added
+     User added
+     Friend Added
+     Friend Added
+     "this is a test post." 
+     User added
+     Friend Added
+     User added
+     Post added
+     Post added
+       Degree of Separation of users:6
+     User added
+     User added
+     Friend Added
+     User added
+     User added
+     User added
+     Post added
+     User added
+     Post added
+     Users are not connected
+     Friend Added
+     No friends
+     Friend Added
+     Friend Added
+     User added
+     User added
+     Post added
+     beta_user_55 gamma_user_8 
+     Post added
+     Post added
+     User added
+     User added
+     User added
+     User added
+     Post added
+     User added
+     User added
+       Degree of Separation of users:4
+       Degree of Separation of users:2
+     alpha_user_15 alpha_user_21 alpha_user_60 beta_user_34 gamma_user_11 
+     Post added
+     Post added
+     Users are not connected
+     User added
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     Friend Added
+     Friend Added
+     "thinking about degrees of separation." 
+     Post added
+     Post added
+     Users are not connected
+     Post added
+     Friend Added
+     No friends
+     User added
+     beta_user_1 gamma_user_8 
+     Friend Added
+     Post added
+     User added
+     No friends
+     Friend Added
+     Friend Added
+     alpha_user_33 beta_user_7 beta_user_76 gamma_user_140 
+     beta_user_55 
+     alpha_user_33 
+     gamma_user_14 
+     beta_user_10 
+     gamma_user_11 
+     User added
+     Friend Added
+     Friend Added
+     User added
+     No mutual friends
+     Post added
+     User added
+     User added
+     Post added
+     Post added
+     Friend Added
+     alpha_user_33 alpha_user_117 alpha_user_72 
+     User added
+     Friend Added
+     beta_user_31 beta_user_55 gamma_user_11 
+     "this is a test post." 
+     Friend Added
+     User added
+     User added
+     User added
+     Post added
+     alpha_user_33 beta_user_40 beta_user_79 
+     Users are not connected
+     No friends
+     Friend Added
+     User added
+     Friend Added
+     No mutual friends
+     Friend Added
+     User added
+     User added
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     Friend Added
+     User added
+     Friend Added
+     User added
+     No mutual friends
+     Friend Added
+     "just finished the col106 assignment!" 
+     Users are not connected
+     Friend Added
+     Post added
+     Post added
+     alpha_user_72 
+     beta_user_10 beta_user_37 gamma_user_11 gamma_user_17 gamma_user_29 gamma_user_8 
+     Friend Added
+     Friend Added
+     Post added
+     Post added
+     Users are not connected
+     Friend Added
+     "suggesting friends is a cool feature." 
+     User added
+     Users are not connected
+     Friend Added
+     User added
+     Friend Added
+     Post added
+     Post added
+     "suggesting friends is a cool feature." 
+     "suggesting friends is a cool feature." 
+       Degree of Separation of users:5
+     Users are not connected
+     Friend Added
+     User added
+     Friend Added
+     Friend Added
+     No mutual friends
+     User added
+     User added
+     User added
+     Post added
+     Users are not connected
+     Users are not connected
+     User added
+     beta_user_31 gamma_user_104 
+     Friend Added
+     User added
+     User added
+     Post added
+     Post added
+     User added
+     Users are not connected
+     gamma_user_95 
+     alpha_user_6 
+     alpha_user_120 
+       Degree of Separation of users:1
+     User added
+     Users are not connected
+     User added
+     Friend Added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     alpha_user_39 
+     Friend Added
+     "hello world" 
+     No mutual friends
+     User added
+     User added
+     Friend Added
+     User added
+     alpha_user_51 beta_user_118 
+     User added
+     User added
+     Friend Added
+     User added
+     beta_user_10 
+     "suggesting friends is a cool feature." 
+     User added
+     User added
+     Friend Added
+     Users are not connected
+     No friends
+     Post added
+     Post added
+     Post added
+     User added
+     User added
+     User added
+     Friend Added
+     beta_user_100 
+     Friend Added
+     beta_user_28 gamma_user_47 
+     "another post" 
+     Friend Added
+     User added
+     beta_user_31 beta_user_55 
+     Friend Added
+     Post added
+     alpha_user_117 beta_user_49 gamma_user_8 
+     User added
+     User added
+     User added
+     alpha_user_132 alpha_user_33 
+     Friend Added
+     gamma_user_71 
+     "hello world" 
+     Post added
+     Friend Added
+     User added
+     alpha_user_33 alpha_user_6 alpha_user_93 beta_user_19 beta_user_94 gamma_user_5 
+     Users are not connected
+     Friend Added
+       Degree of Separation of users:3
+     User added
+       Degree of Separation of users:9
+     "hello world" 
+     User added
+     Friend Added
+     "another post" 
+     "hello world" 
+     Users are not connected
+     No friends
+     User added
+     User added
+     Friend Added
+     Friend Added
+     User added
+     gamma_user_104 gamma_user_20 
+     Post added
+     Post added
+     User added
+     Friend Added
+     gamma_user_14 
+     Friend Added
+     Friend Added
+     "another post" 
+     Users are not connected
+     beta_user_49 gamma_user_17 gamma_user_41 
+     beta_user_46 gamma_user_5 gamma_user_50 
+     User added
+     User added
+     "graphs are fascinating data structures." 
+       Degree of Separation of users:8
+     User added
+     User added
+     Friend Added
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     No friends
+     User added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:8
+     User added
+       Degree of Separation of users:0
+       Degree of Separation of users:13
+     Friend Added
+     User added
+     User added
+     User added
+     User added
+     gamma_user_149 
+     Post added
+     No mutual friends
+     Friend Added
+     No mutual friends
+     alpha_user_24 alpha_user_48 alpha_user_72 gamma_user_11 gamma_user_17 gamma_user_8 
+     User added
+     beta_user_190 gamma_user_92 
+     Users are not connected
+     Users are not connected
+     beta_user_49 gamma_user_17 gamma_user_41 
+     Users are not connected
+     No friends
+     Friend Added
+     beta_user_100 beta_user_43 beta_user_61 
+     Friend Added
+     User added
+     alpha_user_132 gamma_user_77 
+       Degree of Separation of users:3
+       Degree of Separation of users:8
+     Friend Added
+       Degree of Separation of users:6
+     Friend Added
+     "graphs are fascinating data structures." 
+     Post added
+     User added
+     User added
+     No mutual friends
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     No friends
+     "thinking about degrees of separation." 
+     "this is a test post." 
+     Friend Added
+     No friends
+     Post added
+     User added
+     Users are not connected
+     No friends
+     Friend Added
+     User added
+     Friend Added
+     No mutual friends
+     No friends
+     User added
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     User added
+     No mutual friends
+     Users are not connected
+     Friend Added
+     beta_user_163 
+     User added
+     User added
+     "a long post with multiple words to test parsing." 
+     "graphs are fascinating data structures." 
+     Friend Added
+     User added
+     User added
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     Friend Added
+     Friend Added
+     "graphs are fascinating data structures." 
+     Friend Added
+     Users are not connected
+     User added
+     User added
+     alpha_user_129 beta_user_31 beta_user_55 
+     Post added
+     gamma_user_41 
+     No friends
+     Users are not connected
+     Post added
+     Users are not connected
+     User added
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     beta_user_1 gamma_user_8 
+     "thinking about degrees of separation." 
+     alpha_user_165 
+     User added
+     Users are not connected
+     Users are not connected
+     Post added
+     Users are not connected
+     Users are not connected
+     User added
+     User added
+     No friends
+     Post added
+     User added
+     Users are not connected
+     No friends
+     Post added
+     Users are not connected
+     Users are not connected
+     No friends
+     Users are not connected
+     alpha_user_12 gamma_user_140 
+     No mutual friends
+     No mutual friends
+     gamma_user_11 gamma_user_143 
+     Post added
+     Users are not connected
+     User added
+     alpha_user_201 
+     Friend Added
+     User added
+     Friend Added
+     Friend Added
+     Friend Added
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     beta_user_25 
+     User added
+     User added
+     No mutual friends
+     Post added
+     User added
+     User added
+     beta_user_142 beta_user_202 
+     User added
+     Post added
+     User added
+     User added
+     User added
+     alpha_user_0 gamma_user_11 
+     Friend Added
+     User added
+     No friends
+     Friend Added
+     User added
+     User added
+     Post added
+     User added
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_63 beta_user_1 beta_user_55 
+     User added
+     beta_user_133 beta_user_151 
+     "just finished the col106 assignment!" 
+     No friends
+     beta_user_148 
+     User added
+     User added
+     No mutual friends
+     Friend Added
+     alpha_user_21 
+     User added
+     beta_user_70 gamma_user_11 gamma_user_50 gamma_user_8 
+     User added
+     User added
+     beta_user_22 gamma_user_38 
+     User added
+     User added
+     "my avl tree is perfectly balanced." 
+     User added
+     No mutual friends
+     No mutual friends
+     User added
+     Friend Added
+     Friend Added
+     beta_user_13 gamma_user_164 gamma_user_32 
+     beta_user_55 
+     Friend Added
+     User added
+     User added
+     beta_user_61 gamma_user_122 
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_135 alpha_user_75 gamma_user_149 
+     User added
+     beta_user_118 gamma_user_104 
+     User added
+     Post added
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     "this is a test post." 
+     Friend Added
+     Friend Added
+     User added
+     User added
+     Friend Added
+     User added
+     User added
+     Users are not connected
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     No mutual friends
+     Users are not connected
+     alpha_user_201 
+     User added
+     User added
+     User added
+       Degree of Separation of users:5
+     User added
+     Friend Added
+     User added
+     Post added
+     Friend Added
+     No mutual friends
+     alpha_user_6 beta_user_31 
+     gamma_user_17 gamma_user_50 
+     No friends
+     User added
+     gamma_user_149 
+     No mutual friends
+     No mutual friends
+     Friend Added
+     User added
+     Friend Added
+     No mutual friends
+     User added
+     User added
+     "another post" 
+     "this is a test post." 
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     User added
+     Friend Added
+     Post added
+     No mutual friends
+     User added
+     Friend Added
+     alpha_user_174 
+     Friend Added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     Post added
+     User added
+     beta_user_49 
+     User added
+     No mutual friends
+     Friend Added
+     alpha_user_117 alpha_user_69 beta_user_46 beta_user_49 gamma_user_8 
+     Users are not connected
+     Post added
+     User added
+     User added
+     Users are not connected
+     User added
+     No friends
+     alpha_user_12 
+     Post added
+     Friend Added
+     "another post" 
+     User added
+     Friend Added
+     beta_user_163 
+     No friends
+     No friends
+     No friends
+     "just finished the col106 assignment!" 
+     "hello world" 
+     User added
+     User added
+     Friend Added
+     User added
+     User added
+     gamma_user_53 gamma_user_68 
+     "my avl tree is perfectly balanced." 
+     Friend Added
+     Users are not connected
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:7
+     Post added
+     Friend Added
+     Friend Added
+     gamma_user_65 
+     Users are not connected
+       Degree of Separation of users:6
+     alpha_user_0 gamma_user_11 
+     alpha_user_168 
+     Post added
+     Friend Added
+     Friend Added
+     No mutual friends
+     alpha_user_0 beta_user_46 beta_user_64 beta_user_97 gamma_user_17 gamma_user_5 gamma_user_56 gamma_user_8 
+     alpha_user_72 
+     User added
+     User added
+     User added
+     alpha_user_0 beta_user_46 beta_user_64 beta_user_97 gamma_user_17 gamma_user_5 gamma_user_56 gamma_user_8 
+     Users are not connected
+     Users are not connected
+     Friend Added
+     "this is a test post." 
+     alpha_user_33 beta_user_76 gamma_user_140 gamma_user_197 gamma_user_77 
+     User added
+     Post added
+       Degree of Separation of users:3
+     alpha_user_3 beta_user_28 
+     Post added
+     alpha_user_15 beta_user_67 gamma_user_200 
+     alpha_user_33 alpha_user_117 alpha_user_72 
+     User added
+     Post added
+     User added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     User added
+     Post added
+     User added
+     Post added
+     Post added
+     alpha_user_117 alpha_user_33 alpha_user_72 alpha_user_93 
+     No friends
+     Friend Added
+     Friend Added
+     User added
+     User added
+     User added
+     alpha_user_165 alpha_user_21 alpha_user_24 alpha_user_48 alpha_user_57 alpha_user_72 beta_user_253 beta_user_271 beta_user_49 gamma_user_11 
+     User added
+     "suggesting friends is a cool feature." 
+       Degree of Separation of users:5
+     "suggesting friends is a cool feature." 
+     User added
+     Users are not connected
+     User added
+     "just finished the col106 assignment!" 
+     "just finished the col106 assignment!" 
+       Degree of Separation of users:6
+     Users are not connected
+     Friend Added
+     User added
+     "hello world" 
+     User added
+     User added
+     Friend Added
+     No mutual friends
+     User added
+     Users are not connected
+     User added
+     beta_user_7 gamma_user_77 
+     beta_user_10 
+     Friend Added
+     Users are not connected
+     No mutual friends
+     User added
+     Users are not connected
+     No mutual friends
+       Degree of Separation of users:6
+     User added
+     Users are not connected
+     Post added
+     Friend Added
+     User added
+     No mutual friends
+     Post added
+     User added
+     "suggesting friends is a cool feature." 
+     User added
+     alpha_user_69 
+     Post added
+     User added
+     No friends
+     User added
+     Users are not connected
+     User added
+     Users are not connected
+     User added
+     Post added
+     User added
+     No friends
+     Friend Added
+     User added
+     No friends
+     Post added
+       Degree of Separation of users:6
+     alpha_user_33 alpha_user_117 alpha_user_72 beta_user_13 beta_user_154 beta_user_199 
+     Friend Added
+     "graphs are fascinating data structures." 
+     "suggesting friends is a cool feature." 
+     gamma_user_56 
+     Friend Added
+     Friend Added
+     User added
+     Friend Added
+     beta_user_7 gamma_user_104 gamma_user_23 gamma_user_29 gamma_user_35 gamma_user_5 
+     User added
+     Users are not connected
+     User added
+     Post added
+     Friend Added
+     Friend Added
+     User added
+     Users are not connected
+     User added
+     gamma_user_116 
+     Friend Added
+     User added
+     beta_user_163 beta_user_181 
+     gamma_user_11 gamma_user_116 
+     alpha_user_102 alpha_user_21 
+     User added
+     User added
+     User added
+     No friends
+     User added
+     Post added
+     Friend Added
+     No friends
+     User added
+     No mutual friends
+     Post added
+     alpha_user_3 beta_user_22 
+     User added
+     Friend Added
+     Post added
+     Friend Added
+     User added
+     Post added
+     Users are not connected
+     No friends
+     Friend Added
+     Post added
+     alpha_user_186 beta_user_133 gamma_user_122 
+     Users are not connected
+     User added
+     No mutual friends
+     User added
+     Users are not connected
+     alpha_user_147 
+     Friend Added
+     User added
+     User added
+     User added
+     alpha_user_51 beta_user_118 gamma_user_131 
+     alpha_user_0 gamma_user_11 
+     User added
+     "thinking about degrees of separation." 
+     User added
+     User added
+     User added
+     User added
+     Post added
+     Friend Added
+     Friend Added
+     No mutual friends
+     No friends
+     User added
+     Friend Added
+     Users are not connected
+     User added
+     User added
+     "just finished the col106 assignment!" 
+     Friend Added
+     Post added
+     No friends
+     User added
+     "this is a test post." 
+     Users are not connected
+     Users are not connected
+     Post added
+     Friend Added
+     Friend Added
+     "thinking about degrees of separation." 
+     "graphs are fascinating data structures." 
+     Post added
+     User added
+     User added
+     User added
+     Post added
+     Post added
+     Friend Added
+     Post added
+     "thinking about degrees of separation." 
+     Friend Added
+     User added
+     gamma_user_11 
+     User added
+     User added
+     Users are not connected
+     User added
+     Friend Added
+     User added
+     User added
+     "graphs are fascinating data structures." 
+     "this is a test post." 
+     User added
+     User added
+     User added
+     No mutual friends
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     No mutual friends
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Users are not connected
+     alpha_user_6 beta_user_136 beta_user_64 gamma_user_92 
+     Friend Added
+     alpha_user_102 alpha_user_186 gamma_user_53 
+     Post added
+     User added
+       Degree of Separation of users:7
+     Post added
+     Post added
+     "my avl tree is perfectly balanced." 
+     "this is a test post." 
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     User added
+       Degree of Separation of users:9
+     User added
+     Post added
+       Degree of Separation of users:2
+     Friend Added
+     Friend Added
+     User added
+     User added
+     No mutual friends
+     No mutual friends
+     Friend Added
+     User added
+     Post added
+     User added
+     Users are not connected
+     Friend Added
+     User added
+     User added
+     No mutual friends
+     User added
+     Friend Added
+     User added
+     Friend Added
+     alpha_user_36 
+     Post added
+     Friend Added
+     Friend Added
+     Post added
+     No mutual friends
+     Friend Added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Post added
+     User added
+     User added
+     Friend Added
+     User added
+     alpha_user_6 beta_user_136 beta_user_64 gamma_user_92 
+     Friend Added
+     Users are not connected
+     Friend Added
+     User added
+     User added
+     beta_user_163 
+     Post added
+     Friend Added
+     Users are not connected
+     "graphs are fascinating data structures." 
+     Friend Added
+     Friend Added
+     alpha_user_99 
+     "suggesting friends is a cool feature." 
+     User added
+     User added
+     Friend Added
+     Users are not connected
+     Users are not connected
+     Post added
+     "random thoughts 123 !@#" 
+     User added
+     alpha_user_108 gamma_user_38 
+     alpha_user_213 alpha_user_96 alpha_user_99 beta_user_205 
+     User added
+     User added
+     alpha_user_210 alpha_user_93 gamma_user_104 
+     User added
+     Friend Added
+     User added
+     User added
+     User added
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:6
+       Degree of Separation of users:4
+     User added
+     Post added
+     Users are not connected
+     No mutual friends
+     "another post" 
+     User added
+     Users are not connected
+     User added
+     User added
+     Friend Added
+     User added
+     "hello world" 
+       Degree of Separation of users:4
+     Friend Added
+     Post added
+     Friend Added
+     "another post" 
+     beta_user_250 
+     Friend Added
+     User added
+     Post added
+     Friend Added
+     No mutual friends
+     User added
+     Friend Added
+     gamma_user_62 
+     alpha_user_117 alpha_user_81 beta_user_49 beta_user_52 gamma_user_71 gamma_user_8 
+     Friend Added
+     alpha_user_45 gamma_user_125 
+     Post added
+     No mutual friends
+     Friend Added
+     No mutual friends
+     User added
+     User added
+     User added
+     Friend Added
+     No friends
+     User added
+     Friend Added
+     Friend Added
+     User added
+     beta_user_304 
+     User added
+     Friend Added
+     Friend Added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     beta_user_301 
+     Friend Added
+     User added
+     gamma_user_38 
+     User added
+     Post added
+     User added
+     User added
+     Users are not connected
+     User added
+     Friend Added
+     User added
+     No friends
+     Post added
+     beta_user_127 beta_user_178 
+     alpha_user_93 
+     User added
+     User added
+     User added
+     No mutual friends
+     beta_user_202 
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     User added
+     Friend Added
+     Users are not connected
+     User added
+     "suggesting friends is a cool feature." 
+     User added
+     User added
+     Post added
+     No friends
+     "hello world" 
+     Friend Added
+     Post added
+     Post added
+     User added
+     Friend Added
+     Friend Added
+     User added
+     Users are not connected
+     gamma_user_209 
+     gamma_user_2 alpha_user_33 beta_user_28 beta_user_40 
+     Post added
+     gamma_user_104 alpha_user_150 alpha_user_24 alpha_user_264 alpha_user_51 beta_user_31 
+     No friends
+     Friend Added
+     Friend Added
+     User added
+     Post added
+     User added
+     User added
+     Users are not connected
+     User added
+     gamma_user_41 
+     User added
+     User added
+     Users are not connected
+     Post added
+     Friend Added
+     Friend Added
+     User added
+     No mutual friends
+     User added
+     User added
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     Users are not connected
+     User added
+     Post added
+     Friend Added
+     User added
+     Post added
+     No friends
+     Friend Added
+     Friend Added
+     Post added
+     User added
+     User added
+     alpha_user_186 beta_user_229 
+     Post added
+     User added
+     beta_user_265 
+     No mutual friends
+     Friend Added
+     User added
+     No mutual friends
+     beta_user_235 gamma_user_149 gamma_user_185 
+     User added
+     Friend Added
+     Friend Added
+     User added
+     User added
+     User added
+     "hello world" 
+     "my avl tree is perfectly balanced." 
+     "suggesting friends is a cool feature." 
+     gamma_user_5 
+     Users are not connected
+     Friend Added
+     No friends
+     User added
+     Users are not connected
+     Friend Added
+     Friend Added
+     User added
+     User added
+     User added
+     "graphs are fascinating data structures." 
+     User added
+     alpha_user_42 alpha_user_84 beta_user_43 beta_user_61 
+     Friend Added
+     Friend Added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     "just finished the col106 assignment!" 
+     Post added
+     "thinking about degrees of separation." 
+     No friends
+     Users are not connected
+     No mutual friends
+     Friend Added
+     Users are not connected
+     No mutual friends
+     User added
+     Friend Added
+     User added
+     gamma_user_209 
+     Users are not connected
+     No friends
+     Post added
+     alpha_user_3 beta_user_28 
+     User added
+     User added
+     Users are not connected
+     Post added
+     beta_user_64 beta_user_70 gamma_user_134 
+     Post added
+     User added
+     Friend Added
+     Post added
+     User added
+     User added
+     User added
+     Users are not connected
+     Friend Added
+     User added
+     User added
+     Post added
+     No mutual friends
+     User added
+     No friends
+     Friend Added
+     User added
+       Degree of Separation of users:6
+     Users are not connected
+     Post added
+     Friend Added
+     User added
+     No mutual friends
+     Post added
+     "another post" 
+     gamma_user_8 
+     User added
+     User added
+       Degree of Separation of users:6
+     Friend Added
+     Friend Added
+     User added
+     Post added
+     User added
+     Friend Added
+     User added
+     User added
+     Friend Added
+     User added
+     Friend Added
+     User added
+     No mutual friends
+     Friend Added
+     User added
+       Degree of Separation of users:7
+     Post added
+     Friend Added
+     User added
+     Post added
+     User added
+     User added
+     Friend Added
+     No friends
+     alpha_user_264 alpha_user_69 
+     User added
+     User added
+     gamma_user_38 
+     User added
+     No friends
+     Friend Added
+     User added
+     "random thoughts 123 !@#" 
+     User added
+     Friend Added
+     Friend Added
+     Users are not connected
+     User added
+     Users are not connected
+     Friend Added
+     User added
+     User added
+     User added
+     Users are not connected
+     alpha_user_186 beta_user_229 
+     alpha_user_21 alpha_user_3 beta_user_121 beta_user_22 
+     User added
+     Post added
+     alpha_user_132 alpha_user_93 gamma_user_335 
+     User added
+       Degree of Separation of users:4
+     gamma_user_26 gamma_user_356 
+     Friend Added
+     "graphs are fascinating data structures." 
+     User added
+     User added
+     gamma_user_95 
+       Degree of Separation of users:9
+     Friend Added
+     Post added
+     User added
+     No mutual friends
+     User added
+     User added
+     User added
+     Friend Added
+     Users are not connected
+     alpha_user_135 
+     User added
+     Friend Added
+     Friend Added
+     User added
+     Post added
+     No mutual friends
+     beta_user_70 
+     Users are not connected
+     Users are not connected
+     Friend Added
+     alpha_user_0 alpha_user_63 beta_user_1 beta_user_55 gamma_user_11 gamma_user_203 
+     "a long post with multiple words to test parsing." 
+     "this is a test post." 
+     User added
+     Post added
+     User added
+     User added
+     User added
+     Friend Added
+     User added
+     Users are not connected
+     Friend Added
+     Post added
+     User added
+     User added
+     User added
+     alpha_user_129 alpha_user_132 
+     Friend Added
+     Users are not connected
+     Post added
+     No friends
+     gamma_user_239 
+     Post added
+     "a long post with multiple words to test parsing." 
+     "my avl tree is perfectly balanced." 
+     Post added
+     alpha_user_174 gamma_user_11 
+     Friend Added
+     alpha_user_213 alpha_user_96 alpha_user_99 
+     alpha_user_42 beta_user_361 gamma_user_5 
+     No mutual friends
+     Friend Added
+     Friend Added
+     Users are not connected
+     gamma_user_17 
+     Post added
+     No mutual friends
+     Post added
+     Users are not connected
+     Users are not connected
+     Users are not connected
+     Post added
+     No mutual friends
+     Friend Added
+     "thinking about degrees of separation." 
+     Users are not connected
+     Friend Added
+     Users are not connected
+     alpha_user_81 gamma_user_455 
+     Post added
+     "thinking about degrees of separation." 
+     Friend Added
+     Post added
+       Degree of Separation of users:3
+     Friend Added
+     Users are not connected
+     No friends
+     alpha_user_27 gamma_user_212 
+     Users are not connected
+     Friend Added
+     No friends
+     beta_user_88 
+     Post added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:6
+     Users are not connected
+     beta_user_13 
+       Degree of Separation of users:1
+     Friend Added
+     No mutual friends
+     Friend Added
+     "thinking about degrees of separation." 
+     Friend Added
+     Users are not connected
+     Users are not connected
+     No mutual friends
+     Post added
+     Friend Added
+     beta_user_190 gamma_user_110 gamma_user_170 gamma_user_92 
+     Users are not connected
+     Friend Added
+     No mutual friends
+     Post added
+     Friend Added
+     No mutual friends
+     Friend Added
+     "thinking about degrees of separation." 
+     beta_user_265 gamma_user_14 
+     alpha_user_12 alpha_user_33 alpha_user_411 
+     alpha_user_282 alpha_user_333 beta_user_163 
+     alpha_user_129 
+     gamma_user_212 
+     Users are not connected
+     Post added
+     No friends
+     beta_user_91 
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     "this is a test post." 
+     Friend Added
+     Users are not connected
+     Post added
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     "this is a test post." 
+       Degree of Separation of users:6
+     Friend Added
+     beta_user_235 gamma_user_110 
+     Users are not connected
+     alpha_user_186 alpha_user_237 
+     Friend Added
+       Degree of Separation of users:11
+     Users are not connected
+     Friend Added
+     alpha_user_153 beta_user_127 beta_user_37 gamma_user_86 
+       Degree of Separation of users:7
+     Friend Added
+     Users are not connected
+     alpha_user_192 
+     No friends
+     gamma_user_26 alpha_user_21 beta_user_22 gamma_user_17 
+     beta_user_235 gamma_user_110 gamma_user_149 gamma_user_185 gamma_user_302 
+     Users are not connected
+     Friend Added
+     Friend Added
+     No friends
+     "graphs are fascinating data structures." 
+     Friend Added
+     Friend Added
+     No friends
+       Degree of Separation of users:9
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+     alpha_user_33 beta_user_28 beta_user_40 beta_user_79 gamma_user_2 gamma_user_2 
+     Users are not connected
+     alpha_user_423 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     alpha_user_117 alpha_user_69 beta_user_28 beta_user_46 beta_user_94 gamma_user_296 gamma_user_71 
+     "thinking about degrees of separation." 
+     Post added
+     Friend Added
+     "this is a test post." 
+     "graphs are fascinating data structures." 
+     "graphs are fascinating data structures." 
+     No mutual friends
+     Friend Added
+     "hello world" 
+     Post added
+     No friends
+     alpha_user_129 alpha_user_132 
+     Post added
+     No friends
+     Users are not connected
+     Friend Added
+     Post added
+     Post added
+     Users are not connected
+     No mutual friends
+     Users are not connected
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_6 beta_user_112 beta_user_145 beta_user_22 beta_user_31 beta_user_64 
+     "my avl tree is perfectly balanced." 
+     "another post" 
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     "graphs are fascinating data structures." 
+     Users are not connected
+     "graphs are fascinating data structures." 
+     alpha_user_162 gamma_user_86 
+     Users are not connected
+     Users are not connected
+     alpha_user_411 gamma_user_140 
+     No mutual friends
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     gamma_user_404 
+     Friend Added
+     beta_user_211 
+     Friend Added
+     Friend Added
+     beta_user_148 
+     Post added
+     Friend Added
+     "just finished the col106 assignment!" 
+     Post added
+     Users are not connected
+     Users are not connected
+     Post added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:7
+       Degree of Separation of users:7
+     Friend Added
+     Friend Added
+     No mutual friends
+     No friends
+     Post added
+     Users are not connected
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:5
+     alpha_user_348 beta_user_385 
+     Post added
+     Friend Added
+     Friend Added
+     Users are not connected
+     Users are not connected
+     alpha_user_132 beta_user_19 gamma_user_77 
+     Users are not connected
+     Users are not connected
+     Users are not connected
+     Friend Added
+     alpha_user_165 alpha_user_24 alpha_user_48 alpha_user_72 beta_user_271 gamma_user_11 gamma_user_17 
+     alpha_user_120 beta_user_4 gamma_user_122 gamma_user_14 
+     Post added
+     Users are not connected
+     beta_user_133 beta_user_139 beta_user_466 beta_user_55 beta_user_67 gamma_user_212 gamma_user_461 
+     No mutual friends
+     Friend Added
+     Friend Added
+     Post added
+     alpha_user_129 gamma_user_38 
+     Friend Added
+     alpha_user_102 alpha_user_90 beta_user_229 beta_user_262 gamma_user_104 
+     No mutual friends
+     beta_user_25 gamma_user_236 
+     Friend Added
+     Post added
+     gamma_user_200 
+     "just finished the col106 assignment!" 
+     alpha_user_198 alpha_user_219 
+     Friend Added
+     Friend Added
+     No mutual friends
+     No friends
+     Friend Added
+     Users are not connected
+     "another post" 
+     Friend Added
+     beta_user_64 beta_user_97 gamma_user_440 gamma_user_50 
+     Post added
+     Friend Added
+     Friend Added
+     No friends
+     gamma_user_113 gamma_user_338 
+       Degree of Separation of users:5
+     Friend Added
+     Friend Added
+     Users are not connected
+     "thinking about degrees of separation." 
+     Users are not connected
+     alpha_user_21 alpha_user_3 beta_user_121 beta_user_136 beta_user_145 beta_user_253 gamma_user_317 
+     Users are not connected
+     Friend Added
+     Friend Added
+     beta_user_28 beta_user_94 gamma_user_95 
+     gamma_user_26 gamma_user_356 
+     Friend Added
+     alpha_user_126 alpha_user_63 alpha_user_81 beta_user_52 gamma_user_11 
+     gamma_user_140 gamma_user_170 gamma_user_248 gamma_user_38 gamma_user_80 
+     Post added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_228 
+       Degree of Separation of users:6
+     Post added
+     "another post" 
+     "my avl tree is perfectly balanced." 
+     No friends
+     Friend Added
+     Post added
+     Friend Added
+     Post added
+     beta_user_349 gamma_user_113 
+     Friend Added
+     Post added
+     Post added
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_288 gamma_user_8 
+     Post added
+     Post added
+     Friend Added
+     alpha_user_9 beta_user_7 
+     Friend Added
+     Users are not connected
+     gamma_user_92 alpha_user_6 beta_user_136 beta_user_148 beta_user_190 beta_user_64 gamma_user_110 gamma_user_140 gamma_user_80 
+     "graphs are fascinating data structures." 
+     Friend Added
+     Users are not connected
+     Post added
+     Post added
+     Users are not connected
+     "thinking about degrees of separation." 
+     alpha_user_210 alpha_user_90 beta_user_139 beta_user_151 beta_user_232 beta_user_466 beta_user_52 beta_user_55 
+     Post added
+     Friend Added
+     beta_user_25 
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     Friend Added
+     Users are not connected
+     beta_user_277 gamma_user_239 
+     Users are not connected
+     Friend Added
+     No mutual friends
+     alpha_user_12 alpha_user_6 gamma_user_110 gamma_user_149 gamma_user_173 gamma_user_185 gamma_user_302 gamma_user_338 
+     alpha_user_276 alpha_user_384 alpha_user_39 beta_user_64 gamma_user_35 
+     Friend Added
+     alpha_user_12 alpha_user_24 beta_user_10 
+     Friend Added
+       Degree of Separation of users:4
+     Post added
+     Post added
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_237 gamma_user_62 
+     "a long post with multiple words to test parsing." 
+       Degree of Separation of users:2
+     Users are not connected
+     No friends
+     No mutual friends
+     beta_user_13 beta_user_88 gamma_user_164 gamma_user_32 gamma_user_368 
+     Post added
+     Post added
+     Friend Added
+     Friend Added
+     No mutual friends
+     Post added
+     Post added
+     Friend Added
+     gamma_user_140 
+     No mutual friends
+     Users are not connected
+     alpha_user_102 alpha_user_174 
+     Friend Added
+     Friend Added
+     No friends
+     Post added
+     Friend Added
+     Friend Added
+     Post added
+     alpha_user_405 beta_user_136 beta_user_163 
+     Friend Added
+     alpha_user_444 alpha_user_459 
+     Post added
+     Post added
+     Friend Added
+     "hello world" 
+     No mutual friends
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_135 alpha_user_249 alpha_user_51 
+     Friend Added
+     alpha_user_117 alpha_user_471 alpha_user_69 beta_user_46 gamma_user_155 
+     "suggesting friends is a cool feature." 
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+     Friend Added
+     alpha_user_282 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+     No mutual friends
+     Friend Added
+     Post added
+     Friend Added
+     Post added
+     alpha_user_33 alpha_user_6 alpha_user_93 beta_user_19 beta_user_217 
+     alpha_user_21 alpha_user_3 beta_user_121 beta_user_136 beta_user_145 
+     Friend Added
+     Post added
+     Friend Added
+     No mutual friends
+     alpha_user_120 beta_user_271 
+     Post added
+     No friends
+     Friend Added
+     Post added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     No mutual friends
+     gamma_user_11 
+     Friend Added
+     No mutual friends
+     Post added
+     Post added
+     No mutual friends
+     Friend Added
+     Friend Added
+     No mutual friends
+     alpha_user_129 alpha_user_30 beta_user_91 gamma_user_20 
+     Post added
+     Friend Added
+       Degree of Separation of users:4
+     "another post" 
+     Friend Added
+     Post added
+     No mutual friends
+     alpha_user_84 beta_user_292 gamma_user_2 gamma_user_344 
+     Friend Added
+     No mutual friends
+     Friend Added
+     Post added
+     Post added
+     Post added
+     Post added
+     alpha_user_21 alpha_user_3 beta_user_121 beta_user_136 beta_user_145 beta_user_253 gamma_user_317 gamma_user_38 
+     "hello world" 
+     Post added
+     Friend Added
+     alpha_user_87 
+     Post added
+     Users are not connected
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Post added
+     Friend Added
+     No mutual friends
+     "my avl tree is perfectly balanced." 
+     No mutual friends
+       Degree of Separation of users:6
+     alpha_user_285 
+     Post added
+     alpha_user_288 gamma_user_8 
+     Friend Added
+     Friend Added
+     alpha_user_117 alpha_user_15 alpha_user_21 alpha_user_33 alpha_user_60 alpha_user_72 beta_user_13 beta_user_154 
+     Friend Added
+     Friend Added
+     alpha_user_39 gamma_user_167 gamma_user_332 gamma_user_347 gamma_user_65 
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     alpha_user_15 beta_user_25 
+     No mutual friends
+     Users are not connected
+     Post added
+     Friend Added
+     No friends
+     alpha_user_213 alpha_user_264 gamma_user_275 
+     "hello world" 
+     alpha_user_117 alpha_user_33 alpha_user_72 beta_user_13 beta_user_34 beta_user_76 gamma_user_209 gamma_user_332 
+     Friend Added
+     Friend Added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     "graphs are fascinating data structures." 
+     Friend Added
+     "suggesting friends is a cool feature." 
+       Degree of Separation of users:7
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     "thinking about degrees of separation." 
+     Post added
+     alpha_user_24 alpha_user_252 alpha_user_36 beta_user_10 beta_user_19 beta_user_292 
+     Post added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_162 beta_user_85 
+     Friend Added
+     Post added
+     Users are not connected
+     "graphs are fascinating data structures." 
+       Degree of Separation of users:4
+     No mutual friends
+     alpha_user_117 alpha_user_126 gamma_user_461 
+     Friend Added
+     "graphs are fascinating data structures." 
+     "just finished the col106 assignment!" 
+     Post added
+     Friend Added
+     No mutual friends
+     alpha_user_99 
+     Users are not connected
+     beta_user_1 beta_user_55 gamma_user_107 
+     Friend Added
+     Friend Added
+     No friends
+     Friend Added
+     alpha_user_117 alpha_user_492 gamma_user_161 
+     Friend Added
+     beta_user_190 gamma_user_110 gamma_user_170 gamma_user_425 gamma_user_92 
+     Friend Added
+     "graphs are fascinating data structures." 
+     Users are not connected
+     Friend Added
+     alpha_user_348 gamma_user_245 
+     Friend Added
+     alpha_user_192 
+     Post added
+     Friend Added
+     Friend Added
+     alpha_user_222 
+     alpha_user_15 alpha_user_210 
+     beta_user_112 beta_user_136 beta_user_31 gamma_user_5 
+     gamma_user_167 gamma_user_332 gamma_user_347 gamma_user_395 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:6
+     gamma_user_8 
+     alpha_user_15 alpha_user_243 alpha_user_69 
+     beta_user_388 beta_user_49 
+     Friend Added
+     Friend Added
+     Users are not connected
+       Degree of Separation of users:8
+     "a long post with multiple words to test parsing." 
+     beta_user_136 beta_user_145 beta_user_22 
+     Friend Added
+     No mutual friends
+     Friend Added
+     No mutual friends
+     beta_user_25 gamma_user_161 
+     beta_user_265 gamma_user_14 
+     Post added
+     Friend Added
+     gamma_user_236 
+     "thinking about degrees of separation." 
+     "this is a test post." 
+     Users are not connected
+       Degree of Separation of users:5
+     Friend Added
+     alpha_user_117 alpha_user_492 beta_user_25 
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_291 alpha_user_405 beta_user_13 beta_user_193 gamma_user_164 gamma_user_32 gamma_user_368 
+     No friends
+     alpha_user_132 alpha_user_93 gamma_user_335 
+     Friend Added
+     Friend Added
+     alpha_user_174 
+     alpha_user_99 
+     Friend Added
+     Friend Added
+     gamma_user_128 gamma_user_44 
+     No mutual friends
+     No mutual friends
+     Friend Added
+     beta_user_148 gamma_user_140 gamma_user_170 gamma_user_80 
+       Degree of Separation of users:10
+     Friend Added
+     gamma_user_8 alpha_user_210 alpha_user_24 alpha_user_48 alpha_user_72 beta_user_271 gamma_user_101 
+       Degree of Separation of users:5
+       Degree of Separation of users:7
+       Degree of Separation of users:7
+       Degree of Separation of users:6
+     "hello world" 
+     Friend Added
+     beta_user_52 alpha_user_15 alpha_user_210 alpha_user_456 alpha_user_93 alpha_user_99 beta_user_115 
+     Users are not connected
+     Friend Added
+     Users are not connected
+     Friend Added
+     alpha_user_159 gamma_user_239 
+     Friend Added
+     "this is a test post." 
+     Friend Added
+     alpha_user_492 alpha_user_90 beta_user_115 
+     No mutual friends
+     Post added
+     Friend Added
+       Degree of Separation of users:6
+     "graphs are fascinating data structures." 
+     beta_user_142 beta_user_43 beta_user_49 gamma_user_53 
+     Post added
+     Post added
+     Users are not connected
+     Post added
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:7
+     Friend Added
+     alpha_user_6 
+     Friend Added
+     Post added
+       Degree of Separation of users:3
+     alpha_user_183 beta_user_109 beta_user_298 gamma_user_131 
+       Degree of Separation of users:7
+     "another post" 
+     alpha_user_120 alpha_user_207 alpha_user_24 alpha_user_81 beta_user_10 beta_user_352 
+     Friend Added
+     Friend Added
+       Degree of Separation of users:11
+     "this is a test post." 
+     Users are not connected
+     beta_user_13 
+     Post added
+     No friends
+     "another post" 
+     "thinking about degrees of separation." 
+     Post added
+     alpha_user_6 
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     "a long post with multiple words to test parsing." 
+     "my avl tree is perfectly balanced." 
+     "my avl tree is perfectly balanced." 
+     "random thoughts 123 !@#" 
+       Degree of Separation of users:6
+     "just finished the col106 assignment!" 
+     alpha_user_15 
+     Users are not connected
+     Friend Added
+     Users are not connected
+     Post added
+     Users are not connected
+     Friend Added
+     Post added
+     alpha_user_303 
+       Degree of Separation of users:5
+     gamma_user_476 gamma_user_56 
+     No mutual friends
+     alpha_user_117 alpha_user_165 alpha_user_24 alpha_user_33 alpha_user_48 
+     "graphs are fascinating data structures." 
+     Users are not connected
+       Degree of Separation of users:9
+     alpha_user_204 
+     Friend Added
+     Post added
+     No mutual friends
+     "a long post with multiple words to test parsing." 
+     alpha_user_12 alpha_user_18 alpha_user_24 
+     Users are not connected
+     alpha_user_171 beta_user_124 
+     Friend Added
+       Degree of Separation of users:4
+     Users are not connected
+     alpha_user_15 alpha_user_21 alpha_user_231 alpha_user_360 beta_user_151 beta_user_34 gamma_user_11 
+     Post added
+     beta_user_109 beta_user_46 
+     alpha_user_444 
+     Users are not connected
+     Friend Added
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     alpha_user_18 
+     No friends
+     Friend Added
+     alpha_user_36 beta_user_349 
+     No friends
+     Friend Added
+     Users are not connected
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     "another post" 
+     Friend Added
+     Friend Added
+     "thinking about degrees of separation." 
+     "thinking about degrees of separation." 
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     gamma_user_230 
+     "just finished the col106 assignment!" 
+     alpha_user_141 beta_user_211 gamma_user_119 gamma_user_332 
+     Friend Added
+     Friend Added
+       Degree of Separation of users:6
+     Users are not connected
+       Degree of Separation of users:5
+     Users are not connected
+     "just finished the col106 assignment!" 
+     "a long post with multiple words to test parsing." 
+     "just finished the col106 assignment!" 
+     Post added
+     Friend Added
+     "this is a test post." 
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_228 alpha_user_417 
+       Degree of Separation of users:6
+     Friend Added
+     Friend Added
+     alpha_user_129 alpha_user_243 alpha_user_432 
+     Friend Added
+     No mutual friends
+     alpha_user_75 beta_user_196 beta_user_241 
+     "thinking about degrees of separation." 
+     Friend Added
+     Post added
+     No mutual friends
+     Friend Added
+     beta_user_160 beta_user_247 gamma_user_11 gamma_user_116 
+     alpha_user_117 
+     Users are not connected
+     beta_user_304 gamma_user_443 
+     "another post" 
+     "this is a test post." 
+     Friend Added
+     "hello world" 
+     alpha_user_21 
+       Degree of Separation of users:6
+     "thinking about degrees of separation." 
+     beta_user_172 beta_user_229 gamma_user_17 gamma_user_50 gamma_user_56 
+     Post added
+     Post added
+       Degree of Separation of users:8
+     alpha_user_225 beta_user_289 beta_user_43 
+     Post added
+     alpha_user_174 alpha_user_372 gamma_user_11 gamma_user_182 gamma_user_26 
+     "a long post with multiple words to test parsing." 
+     "thinking about degrees of separation." 
+     Friend Added
+     "just finished the col106 assignment!" 
+     Friend Added
+     Friend Added
+     alpha_user_171 alpha_user_258 beta_user_124 gamma_user_113 
+     alpha_user_36 beta_user_349 
+     Friend Added
+     gamma_user_401 
+     "another post" 
+     Post added
+     Friend Added
+     Users are not connected
+     Post added
+     alpha_user_129 alpha_user_204 
+     Post added
+     alpha_user_165 alpha_user_210 gamma_user_101 gamma_user_8 
+     No mutual friends
+     Friend Added
+     alpha_user_21 alpha_user_237 
+     Friend Added
+     Friend Added
+     Post added
+     Post added
+       Degree of Separation of users:6
+     Post added
+     "this is a test post." 
+     "graphs are fascinating data structures." 
+     "another post" 
+     Post added
+     Friend Added
+     Friend Added
+     No mutual friends
+     beta_user_118 alpha_user_105 alpha_user_264 alpha_user_405 alpha_user_411 alpha_user_441 alpha_user_81 beta_user_103 beta_user_124 
+     beta_user_109 beta_user_46 
+     alpha_user_117 beta_user_115 beta_user_181 beta_user_205 beta_user_334 beta_user_76 gamma_user_161 gamma_user_62 gamma_user_65 
+       Degree of Separation of users:7
+     No friends
+     "just finished the col106 assignment!" 
+     "a long post with multiple words to test parsing." 
+       Degree of Separation of users:4
+     alpha_user_24 alpha_user_252 alpha_user_36 
+     Friend Added
+     Friend Added
+     Friend Added
+     No mutual friends
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_339 beta_user_265 gamma_user_14 
+     "my avl tree is perfectly balanced." 
+     Friend Added
+     Post added
+     Friend Added
+     No friends
+     Friend Added
+       Degree of Separation of users:5
+     "a long post with multiple words to test parsing." 
+     "another post" 
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:4
+     "a long post with multiple words to test parsing." 
+     "this is a test post." 
+     alpha_user_69 
+     Post added
+     Users are not connected
+     alpha_user_429 gamma_user_5 
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_135 beta_user_115 beta_user_298 gamma_user_227 
+     Friend Added
+     beta_user_415 beta_user_64 beta_user_97 gamma_user_440 gamma_user_50 
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:6
+     No friends
+     No mutual friends
+     alpha_user_18 
+     "this is a test post." 
+     Friend Added
+     Post added
+       Degree of Separation of users:5
+     alpha_user_81 beta_user_13 beta_user_178 beta_user_85 gamma_user_176 
+     alpha_user_27 alpha_user_9 gamma_user_212 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+       Degree of Separation of users:7
+     Friend Added
+     gamma_user_26 alpha_user_165 alpha_user_21 alpha_user_24 alpha_user_48 alpha_user_57 
+     Friend Added
+     beta_user_31 beta_user_349 gamma_user_338 gamma_user_491 gamma_user_80 
+     alpha_user_12 alpha_user_180 alpha_user_279 alpha_user_33 alpha_user_408 alpha_user_45 alpha_user_69 
+       Degree of Separation of users:6
+       Degree of Separation of users:6
+     alpha_user_120 alpha_user_165 alpha_user_24 alpha_user_48 alpha_user_72 
+     Friend Added
+     Post added
+     "my avl tree is perfectly balanced." 
+     alpha_user_18 alpha_user_384 alpha_user_39 alpha_user_6 beta_user_136 beta_user_415 beta_user_70 beta_user_97 gamma_user_119 gamma_user_134 
+     beta_user_31 beta_user_349 gamma_user_338 
+     Friend Added
+     Post added
+     alpha_user_0 gamma_user_182 gamma_user_50 gamma_user_8 
+     Friend Added
+     beta_user_109 beta_user_46 
+     Users are not connected
+     alpha_user_273 
+     alpha_user_33 
+     Post added
+     Friend Added
+       Degree of Separation of users:6
+     gamma_user_71 gamma_user_95 alpha_user_114 
+     Users are not connected
+     Post added
+     Users are not connected
+     "thinking about degrees of separation." 
+     "a long post with multiple words to test parsing." 
+     "another post" 
+     alpha_user_135 alpha_user_237 alpha_user_252 alpha_user_75 beta_user_427 
+     Post added
+     "hello world" 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Users are not connected
+     alpha_user_132 alpha_user_93 beta_user_484 
+     Post added
+     alpha_user_237 alpha_user_249 
+     "just finished the col106 assignment!" 
+     Post added
+     Post added
+     No friends
+     Friend Added
+     alpha_user_0 beta_user_16 beta_user_211 gamma_user_197 gamma_user_53 
+       Degree of Separation of users:8
+     Users are not connected
+     alpha_user_159 alpha_user_210 alpha_user_93 beta_user_316 beta_user_415 
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     alpha_user_135 
+     No mutual friends
+     Post added
+     beta_user_142 beta_user_169 beta_user_202 beta_user_49 
+     Friend Added
+     Friend Added
+     Post added
+     No mutual friends
+       Degree of Separation of users:5
+     Post added
+     alpha_user_228 
+     Friend Added
+     beta_user_1 beta_user_55 gamma_user_107 
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_135 alpha_user_237 alpha_user_252 alpha_user_75 beta_user_427 
+     alpha_user_162 beta_user_178 
+     alpha_user_171 alpha_user_189 alpha_user_258 beta_user_124 gamma_user_113 
+     Friend Added
+     "another post" 
+     alpha_user_405 beta_user_88 
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "hello world" 
+       Degree of Separation of users:6
+     alpha_user_204 alpha_user_309 
+     "hello world" 
+     "thinking about degrees of separation." 
+     "just finished the col106 assignment!" 
+     Friend Added
+     alpha_user_306 alpha_user_429 gamma_user_5 
+     "another post" 
+     beta_user_118 alpha_user_105 alpha_user_264 alpha_user_405 alpha_user_411 alpha_user_441 
+     Friend Added
+     beta_user_226 beta_user_337 beta_user_40 
+     Post added
+     gamma_user_119 
+     Post added
+     Users are not connected
+     beta_user_328 
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "just finished the col106 assignment!" 
+     Friend Added
+     Users are not connected
+     Friend Added
+     gamma_user_143 gamma_user_5 
+     beta_user_148 
+     "another post" 
+     "this is a test post." 
+       Degree of Separation of users:7
+     Users are not connected
+     Post added
+     No mutual friends
+     Friend Added
+     alpha_user_138 
+     Friend Added
+     "thinking about degrees of separation." 
+     beta_user_229 gamma_user_11 gamma_user_392 
+     beta_user_163 
+     Post added
+     Post added
+       Degree of Separation of users:4
+     Friend Added
+     Post added
+     alpha_user_420 
+     Friend Added
+     Friend Added
+     Friend Added
+     "graphs are fascinating data structures." 
+     Friend Added
+     "thinking about degrees of separation." 
+       Degree of Separation of users:8
+     Friend Added
+       Degree of Separation of users:5
+     Users are not connected
+     alpha_user_318 
+     gamma_user_14 
+     gamma_user_26 alpha_user_165 alpha_user_21 alpha_user_24 alpha_user_48 alpha_user_57 alpha_user_72 beta_user_229 beta_user_235 beta_user_253 
+     Post added
+       Degree of Separation of users:7
+     beta_user_331 gamma_user_26 
+     Friend Added
+     alpha_user_132 beta_user_19 
+       Degree of Separation of users:7
+     alpha_user_15 alpha_user_21 alpha_user_231 alpha_user_330 alpha_user_360 alpha_user_51 alpha_user_57 alpha_user_60 beta_user_118 
+     alpha_user_246 
+     beta_user_46 gamma_user_5 gamma_user_50 
+     Friend Added
+     "hello world" 
+     alpha_user_102 alpha_user_117 alpha_user_15 alpha_user_492 beta_user_127 beta_user_37 
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_21 alpha_user_3 alpha_user_486 beta_user_121 beta_user_22 gamma_user_314 
+     alpha_user_102 alpha_user_90 beta_user_496 
+       Degree of Separation of users:4
+     "suggesting friends is a cool feature." 
+     alpha_user_135 alpha_user_249 alpha_user_267 alpha_user_51 beta_user_196 beta_user_61 
+     No mutual friends
+     Users are not connected
+     Friend Added
+     Friend Added
+     Post added
+     beta_user_52 alpha_user_102 alpha_user_153 alpha_user_21 alpha_user_228 
+     alpha_user_228 beta_user_136 beta_user_145 beta_user_22 
+       Degree of Separation of users:6
+     alpha_user_0 alpha_user_174 alpha_user_372 gamma_user_11 gamma_user_143 gamma_user_17 gamma_user_257 gamma_user_356 gamma_user_50 gamma_user_8 
+     Post added
+     Friend Added
+     alpha_user_27 alpha_user_375 alpha_user_45 
+     alpha_user_132 
+       Degree of Separation of users:3
+     "another post" 
+       Degree of Separation of users:9
+     alpha_user_252 beta_user_400 gamma_user_338 
+     alpha_user_102 alpha_user_120 alpha_user_174 alpha_user_36 
+     Post added
+     Post added
+     "graphs are fascinating data structures." 
+     "a long post with multiple words to test parsing." 
+     "random thoughts 123 !@#" 
+     "graphs are fascinating data structures." 
+     alpha_user_57 gamma_user_131 gamma_user_17 gamma_user_470 
+     Friend Added
+     "graphs are fascinating data structures." 
+     Post added
+     "another post" 
+     "this is a test post." 
+     gamma_user_140 
+     alpha_user_189 gamma_user_275 gamma_user_413 
+     Post added
+     Post added
+     No mutual friends
+       Degree of Separation of users:5
+     gamma_user_380 
+     Friend Added
+     beta_user_418 gamma_user_113 gamma_user_14 
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_0 beta_user_202 gamma_user_107 gamma_user_11 
+     alpha_user_117 alpha_user_36 alpha_user_471 
+     beta_user_25 beta_user_49 
+     Friend Added
+     alpha_user_309 alpha_user_51 
+     No mutual friends
+     Users are not connected
+       Degree of Separation of users:6
+     alpha_user_120 beta_user_271 gamma_user_23 
+     gamma_user_236 
+     No friends
+       Degree of Separation of users:5
+     Friend Added
+     Friend Added
+     alpha_user_186 alpha_user_402 
+     "graphs are fascinating data structures." 
+     "hello world" 
+     alpha_user_117 alpha_user_141 alpha_user_327 
+     Friend Added
+     "this is a test post." 
+     No mutual friends
+     Friend Added
+     alpha_user_165 
+     Friend Added
+     Friend Added
+     alpha_user_423 
+     alpha_user_135 
+     alpha_user_117 alpha_user_141 alpha_user_396 gamma_user_140 gamma_user_197 gamma_user_65 
+       Degree of Separation of users:5
+     Post added
+     alpha_user_222 gamma_user_50 
+     Friend Added
+     alpha_user_318 gamma_user_140 
+     Friend Added
+     alpha_user_21 alpha_user_252 gamma_user_392 
+       Degree of Separation of users:7
+     alpha_user_102 alpha_user_117 alpha_user_15 alpha_user_492 beta_user_127 beta_user_37 beta_user_475 gamma_user_119 gamma_user_161 gamma_user_2 
+     beta_user_463 
+     alpha_user_135 alpha_user_198 alpha_user_219 alpha_user_249 alpha_user_267 alpha_user_42 alpha_user_51 alpha_user_72 
+     Post added
+     alpha_user_105 alpha_user_441 alpha_user_81 gamma_user_137 gamma_user_143 gamma_user_80 gamma_user_92 
+     alpha_user_12 alpha_user_18 alpha_user_24 alpha_user_276 alpha_user_420 
+     Post added
+     "thinking about degrees of separation." 
+     "graphs are fascinating data structures." 
+     Friend Added
+     Friend Added
+     Friend Added
+     "another post" 
+       Degree of Separation of users:7
+     Friend Added
+     alpha_user_81 beta_user_13 gamma_user_176 gamma_user_455 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     No mutual friends
+     Post added
+     gamma_user_14 
+     Friend Added
+     Friend Added
+     Post added
+     "hello world" 
+     Friend Added
+     gamma_user_470 
+     "suggesting friends is a cool feature." 
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     No friends
+     Friend Added
+     Friend Added
+     Post added
+     "this is a test post." 
+     "graphs are fascinating data structures." 
+     alpha_user_252 alpha_user_36 beta_user_19 beta_user_292 gamma_user_29 
+       Degree of Separation of users:1
+     alpha_user_258 alpha_user_303 alpha_user_417 beta_user_388 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     gamma_user_56 
+     alpha_user_0 alpha_user_123 alpha_user_126 alpha_user_15 alpha_user_165 
+     "graphs are fascinating data structures." 
+     alpha_user_258 alpha_user_303 alpha_user_417 beta_user_388 
+     Post added
+       Degree of Separation of users:7
+     alpha_user_225 beta_user_289 beta_user_43 
+     Friend Added
+     alpha_user_174 alpha_user_372 gamma_user_11 gamma_user_182 gamma_user_26 
+     "just finished the col106 assignment!" 
+     beta_user_25 
+     alpha_user_210 alpha_user_459 beta_user_133 
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+       Degree of Separation of users:3
+     Users are not connected
+     beta_user_211 gamma_user_452 
+     Friend Added
+     alpha_user_12 
+     alpha_user_33 gamma_user_470 
+       Degree of Separation of users:3
+     alpha_user_45 alpha_user_9 gamma_user_431 gamma_user_437 gamma_user_461 gamma_user_494 
+     alpha_user_198 beta_user_13 beta_user_61 gamma_user_410 
+     alpha_user_135 alpha_user_237 alpha_user_252 beta_user_196 
+     Friend Added
+     Friend Added
+     Post added
+     "another post" 
+     "thinking about degrees of separation." 
+     "graphs are fascinating data structures." 
+     "just finished the col106 assignment!" 
+     "hello world" 
+     Users are not connected
+     Friend Added
+     Post added
+     Post added
+       Degree of Separation of users:5
+     "thinking about degrees of separation." 
+       Degree of Separation of users:4
+     alpha_user_120 alpha_user_36 gamma_user_323 
+     Friend Added
+     Friend Added
+     Friend Added
+     No mutual friends
+     beta_user_463 
+       Degree of Separation of users:4
+     Users are not connected
+       Degree of Separation of users:6
+     alpha_user_186 alpha_user_396 alpha_user_87 beta_user_229 beta_user_286 
+     "hello world" 
+     "just finished the col106 assignment!" 
+     "graphs are fascinating data structures." 
+     "this is a test post." 
+     "another post" 
+       Degree of Separation of users:6
+       Degree of Separation of users:9
+     No mutual friends
+     Friend Added
+     alpha_user_288 gamma_user_134 
+     beta_user_178 beta_user_85 gamma_user_107 gamma_user_455 
+     alpha_user_117 
+     beta_user_337 gamma_user_101 gamma_user_29 
+     Friend Added
+     Friend Added
+     Post added
+     beta_user_118 
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     Post added
+     Post added
+     alpha_user_234 
+     Friend Added
+       Degree of Separation of users:5
+     Post added
+     Post added
+     Friend Added
+     alpha_user_336 alpha_user_492 alpha_user_90 
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     Post added
+       Degree of Separation of users:7
+     alpha_user_33 
+     Post added
+     alpha_user_159 gamma_user_239 
+     gamma_user_119 gamma_user_401 
+     Post added
+     Post added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     "another post" 
+     beta_user_199 beta_user_361 beta_user_76 gamma_user_203 gamma_user_41 
+     "just finished the col106 assignment!" 
+     Friend Added
+     No mutual friends
+       Degree of Separation of users:5
+     Post added
+     Post added
+     "just finished the col106 assignment!" 
+     "graphs are fascinating data structures." 
+     "just finished the col106 assignment!" 
+     "just finished the col106 assignment!" 
+     Post added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:5
+     Friend Added
+     Friend Added
+     "another post" 
+     "suggesting friends is a cool feature." 
+     beta_user_370 beta_user_430 gamma_user_410 
+     "hello world" 
+       Degree of Separation of users:3
+     alpha_user_135 alpha_user_237 alpha_user_252 alpha_user_75 beta_user_427 gamma_user_149 gamma_user_74 
+     "my avl tree is perfectly balanced." 
+     "hello world" 
+     alpha_user_39 
+     Post added
+     Friend Added
+     alpha_user_75 beta_user_196 beta_user_241 beta_user_376 
+     beta_user_316 gamma_user_440 
+     beta_user_118 gamma_user_461 
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_204 beta_user_52 
+     alpha_user_168 alpha_user_21 alpha_user_3 alpha_user_486 beta_user_121 beta_user_22 gamma_user_314 
+     alpha_user_60 alpha_user_93 gamma_user_326 
+       Degree of Separation of users:3
+       Degree of Separation of users:5
+     Users are not connected
+     Friend Added
+     Friend Added
+     Friend Added
+     "hello world" 
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     Friend Added
+     Friend Added
+     beta_user_229 gamma_user_11 gamma_user_392 
+       Degree of Separation of users:7
+     "just finished the col106 assignment!" 
+     "thinking about degrees of separation." 
+     beta_user_52 alpha_user_102 
+     gamma_user_317 
+     beta_user_214 beta_user_280 gamma_user_38 
+     alpha_user_102 alpha_user_174 gamma_user_323 
+     Post added
+     Friend Added
+     beta_user_409 gamma_user_380 
+     alpha_user_186 alpha_user_291 beta_user_13 beta_user_193 
+     Post added
+     Friend Added
+     Post added
+     alpha_user_165 alpha_user_210 gamma_user_101 gamma_user_8 
+     Post added
+     "my avl tree is perfectly balanced." 
+     alpha_user_186 alpha_user_42 alpha_user_90 
+     alpha_user_93 alpha_user_168 alpha_user_228 alpha_user_264 
+     alpha_user_216 beta_user_22 gamma_user_38 
+     Friend Added
+     Users are not connected
+     alpha_user_117 alpha_user_33 alpha_user_72 beta_user_13 beta_user_130 beta_user_154 beta_user_34 beta_user_76 gamma_user_332 
+     Friend Added
+     Friend Added
+     Friend Added
+     No mutual friends
+     Post added
+       Degree of Separation of users:5
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     "random thoughts 123 !@#" 
+     alpha_user_348 beta_user_127 beta_user_154 beta_user_295 beta_user_385 beta_user_406 gamma_user_257 
+     Post added
+     Post added
+       Degree of Separation of users:5
+     "graphs are fascinating data structures." 
+     "a long post with multiple words to test parsing." 
+     "suggesting friends is a cool feature." 
+     Friend Added
+     Friend Added
+       Degree of Separation of users:5
+     "thinking about degrees of separation." 
+     "just finished the col106 assignment!" 
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     Friend Added
+     alpha_user_18 
+     Friend Added
+     alpha_user_117 alpha_user_141 alpha_user_327 alpha_user_33 alpha_user_444 alpha_user_459 alpha_user_72 beta_user_13 beta_user_130 beta_user_154 
+     Friend Added
+       Degree of Separation of users:7
+     "just finished the col106 assignment!" 
+       Degree of Separation of users:4
+       Degree of Separation of users:4
+     Post added
+     Post added
+     Friend Added
+     "thinking about degrees of separation." 
+     "thinking about degrees of separation." 
+     Friend Added
+     No mutual friends
+       Degree of Separation of users:6
+     "a long post with multiple words to test parsing." 
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     Friend Added
+     Post added
+     alpha_user_6 beta_user_112 beta_user_208 
+     Post added
+     "hello world" 
+     Friend Added
+     alpha_user_318 alpha_user_321 alpha_user_51 beta_user_250 beta_user_31 beta_user_349 gamma_user_338 
+     Friend Added
+     "another post" 
+     Friend Added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_51 beta_user_118 beta_user_175 beta_user_223 
+     alpha_user_117 alpha_user_471 alpha_user_69 beta_user_46 gamma_user_155 gamma_user_296 gamma_user_71 gamma_user_95 
+     Friend Added
+     Users are not connected
+     Post added
+       Degree of Separation of users:7
+     alpha_user_414 beta_user_19 gamma_user_401 
+     "random thoughts 123 !@#" 
+     alpha_user_330 beta_user_223 
+     Friend Added
+     Post added
+     Post added
+     beta_user_118 beta_user_124 alpha_user_105 alpha_user_252 alpha_user_264 alpha_user_405 
+     Friend Added
+     alpha_user_69 beta_user_139 gamma_user_209 
+     alpha_user_306 beta_user_370 
+     Friend Added
+     alpha_user_225 beta_user_196 beta_user_412 beta_user_43 
+     Post added
+     beta_user_337 beta_user_76 gamma_user_185 
+     "random thoughts 123 !@#" 
+     "graphs are fascinating data structures." 
+       Degree of Separation of users:6
+     No friends
+     Post added
+     Post added
+     "graphs are fascinating data structures." 
+       Degree of Separation of users:4
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     alpha_user_129 
+     Post added
+     Friend Added
+     alpha_user_102 alpha_user_153 alpha_user_186 alpha_user_45 
+     beta_user_499 
+     alpha_user_21 alpha_user_252 beta_user_229 gamma_user_11 gamma_user_59 
+     alpha_user_228 alpha_user_417 
+     alpha_user_0 
+     "just finished the col106 assignment!" 
+     alpha_user_333 gamma_user_347 
+     Friend Added
+     "just finished the col106 assignment!" 
+     "a long post with multiple words to test parsing." 
+     "random thoughts 123 !@#" 
+     Friend Added
+     Friend Added
+     Post added
+     beta_user_127 gamma_user_344 
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Post added
+     Friend Added
+     Users are not connected
+     Post added
+     Post added
+     Friend Added
+     "another post" 
+     "just finished the col106 assignment!" 
+     "a long post with multiple words to test parsing." 
+     "thinking about degrees of separation." 
+     Users are not connected
+     No friends
+     Friend Added
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     Post added
+     "this is a test post." 
+     "suggesting friends is a cool feature." 
+     Post added
+     Friend Added
+     "graphs are fascinating data structures." 
+     "my avl tree is perfectly balanced." 
+     Post added
+     Post added
+     No friends
+     Friend Added
+     Users are not connected
+     alpha_user_213 alpha_user_216 alpha_user_381 alpha_user_483 
+     beta_user_28 gamma_user_161 gamma_user_179 gamma_user_347 
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     "random thoughts 123 !@#" 
+     "graphs are fascinating data structures." 
+     beta_user_118 alpha_user_150 alpha_user_63 beta_user_103 beta_user_196 beta_user_289 gamma_user_104 
+     Friend Added
+     Post added
+     beta_user_235 beta_user_481 gamma_user_167 gamma_user_320 gamma_user_338 
+     Friend Added
+     beta_user_349 gamma_user_113 
+     "this is a test post." 
+     "graphs are fascinating data structures." 
+     "another post" 
+     "another post" 
+     "graphs are fascinating data structures." 
+     "my avl tree is perfectly balanced." 
+     alpha_user_132 alpha_user_156 alpha_user_168 alpha_user_93 gamma_user_335 gamma_user_71 gamma_user_95 
+     Post added
+       Degree of Separation of users:5
+     "just finished the col106 assignment!" 
+     alpha_user_123 alpha_user_471 beta_user_262 beta_user_31 beta_user_55 gamma_user_11 gamma_user_26 gamma_user_494 
+     No friends
+       Degree of Separation of users:7
+     Post added
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     alpha_user_81 beta_user_244 beta_user_370 
+     alpha_user_210 alpha_user_444 
+     Friend Added
+     Post added
+     "thinking about degrees of separation." 
+     "thinking about degrees of separation." 
+     "a long post with multiple words to test parsing." 
+     Post added
+     Friend Added
+     Users are not connected
+     Post added
+     Post added
+     Friend Added
+       Degree of Separation of users:5
+     Friend Added
+     Friend Added
+     alpha_user_288 alpha_user_84 beta_user_127 beta_user_292 gamma_user_116 gamma_user_2 gamma_user_305 
+     "thinking about degrees of separation." 
+     Friend Added
+       Degree of Separation of users:9
+     alpha_user_201 alpha_user_24 beta_user_229 
+     beta_user_292 beta_user_451 gamma_user_191 gamma_user_368 gamma_user_431 
+     alpha_user_48 beta_user_259 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_456 beta_user_190 gamma_user_110 gamma_user_170 gamma_user_425 gamma_user_92 
+     "another post" 
+       Degree of Separation of users:6
+     alpha_user_102 alpha_user_186 beta_user_292 gamma_user_53 
+     Post added
+     alpha_user_117 alpha_user_210 alpha_user_249 alpha_user_366 alpha_user_63 
+     "another post" 
+     alpha_user_87 beta_user_10 beta_user_187 beta_user_46 beta_user_73 gamma_user_446 
+     "hello world" 
+     "hello world" 
+     Friend Added
+     alpha_user_243 alpha_user_291 alpha_user_405 
+     Post added
+     Post added
+     gamma_user_2 alpha_user_255 
+       Degree of Separation of users:8
+     "graphs are fascinating data structures." 
+     "suggesting friends is a cool feature." 
+     "hello world" 
+     "suggesting friends is a cool feature." 
+     "this is a test post." 
+     "another post" 
+     "another post" 
+     "hello world" 
+     Friend Added
+     Post added
+     alpha_user_117 alpha_user_183 alpha_user_282 alpha_user_333 alpha_user_471 alpha_user_69 beta_user_163 beta_user_46 gamma_user_296 gamma_user_71 
+     alpha_user_459 alpha_user_90 beta_user_13 
+     Post added
+     Friend Added
+     Post added
+     beta_user_193 gamma_user_122 
+     Friend Added
+     "another post" 
+     gamma_user_470 
+     Friend Added
+     Users are not connected
+     Friend Added
+     Friend Added
+     beta_user_229 beta_user_73 gamma_user_17 gamma_user_491 gamma_user_50 gamma_user_56 
+     alpha_user_93 
+     alpha_user_117 alpha_user_141 alpha_user_39 alpha_user_396 alpha_user_492 beta_user_127 beta_user_271 beta_user_274 beta_user_91 
+     Users are not connected
+     alpha_user_243 alpha_user_69 beta_user_238 beta_user_67 gamma_user_101 gamma_user_326 
+     "this is a test post." 
+     Post added
+     No mutual friends
+     "random thoughts 123 !@#" 
+     Friend Added
+     alpha_user_0 alpha_user_141 beta_user_16 gamma_user_119 
+     Friend Added
+     Post added
+     alpha_user_144 alpha_user_381 alpha_user_462 beta_user_106 
+     alpha_user_0 beta_user_25 beta_user_70 gamma_user_167 gamma_user_209 
+     Post added
+     No mutual friends
+     Post added
+     beta_user_382 
+     "another post" 
+     "just finished the col106 assignment!" 
+     Post added
+     Post added
+     alpha_user_108 gamma_user_38 
+     beta_user_286 beta_user_442 gamma_user_266 
+     alpha_user_45 alpha_user_9 beta_user_364 gamma_user_431 gamma_user_437 gamma_user_461 gamma_user_494 
+     alpha_user_135 alpha_user_237 alpha_user_252 alpha_user_75 beta_user_427 gamma_user_149 gamma_user_464 gamma_user_74 
+     Users are not connected
+     "this is a test post." 
+     "another post" 
+     Friend Added
+     No mutual friends
+     Friend Added
+     alpha_user_117 alpha_user_126 alpha_user_33 alpha_user_45 alpha_user_9 beta_user_118 beta_user_124 
+     "suggesting friends is a cool feature." 
+     "another post" 
+     "random thoughts 123 !@#" 
+     Friend Added
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     "hello world" 
+     Friend Added
+     alpha_user_258 alpha_user_405 beta_user_136 
+       Degree of Separation of users:4
+     beta_user_55 gamma_user_137 alpha_user_138 alpha_user_144 alpha_user_171 alpha_user_252 
+     Friend Added
+     alpha_user_123 alpha_user_339 alpha_user_465 alpha_user_51 beta_user_379 
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "another post" 
+     "my avl tree is perfectly balanced." 
+     alpha_user_186 alpha_user_291 beta_user_13 beta_user_193 beta_user_88 gamma_user_104 gamma_user_164 gamma_user_20 
+     Post added
+     Friend Added
+     beta_user_124 beta_user_31 
+     Friend Added
+     Friend Added
+     Users are not connected
+     Friend Added
+     alpha_user_192 
+     "another post" 
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     "this is a test post." 
+     "graphs are fascinating data structures." 
+     Friend Added
+       Degree of Separation of users:5
+     alpha_user_102 gamma_user_248 
+     Post added
+     Post added
+     "random thoughts 123 !@#" 
+     "random thoughts 123 !@#" 
+     "graphs are fascinating data structures." 
+     Post added
+     "a long post with multiple words to test parsing." 
+     "thinking about degrees of separation." 
+       Degree of Separation of users:5
+     Friend Added
+       Degree of Separation of users:6
+     Friend Added
+     Post added
+     alpha_user_120 alpha_user_207 alpha_user_24 alpha_user_420 alpha_user_486 alpha_user_81 beta_user_10 beta_user_352 
+     Post added
+     No mutual friends
+     alpha_user_201 alpha_user_420 beta_user_373 
+     alpha_user_123 alpha_user_135 alpha_user_465 beta_user_265 beta_user_379 beta_user_85 gamma_user_14 gamma_user_170 
+     Users are not connected
+       Degree of Separation of users:5
+     Friend Added
+       Degree of Separation of users:5
+     Friend Added
+     "another post" 
+     Friend Added
+     Post added
+     "suggesting friends is a cool feature." 
+     "another post" 
+     "graphs are fascinating data structures." 
+     gamma_user_2 
+     Friend Added
+     alpha_user_33 
+     Friend Added
+     alpha_user_183 
+     alpha_user_81 beta_user_13 beta_user_52 gamma_user_176 gamma_user_455 
+     alpha_user_117 alpha_user_135 alpha_user_177 
+     alpha_user_162 alpha_user_213 alpha_user_96 alpha_user_99 beta_user_205 
+     Friend Added
+       Degree of Separation of users:4
+     alpha_user_183 alpha_user_282 alpha_user_333 beta_user_163 gamma_user_155 
+     "random thoughts 123 !@#" 
+     "this is a test post." 
+     "suggesting friends is a cool feature." 
+     "thinking about degrees of separation." 
+     "just finished the col106 assignment!" 
+     alpha_user_126 alpha_user_210 alpha_user_366 beta_user_55 
+     alpha_user_210 alpha_user_444 beta_user_133 
+     Users are not connected
+     alpha_user_135 alpha_user_381 
+     alpha_user_102 alpha_user_90 
+     Friend Added
+       Degree of Separation of users:3
+     Users are not connected
+     Friend Added
+     Friend Added
+       Degree of Separation of users:5
+     gamma_user_2 alpha_user_255 alpha_user_33 beta_user_226 beta_user_28 beta_user_337 
+     "graphs are fascinating data structures." 
+     Friend Added
+     Friend Added
+     alpha_user_117 alpha_user_183 
+     Friend Added
+     Friend Added
+     alpha_user_162 alpha_user_165 
+     Friend Added
+     gamma_user_275 
+       Degree of Separation of users:6
+     Friend Added
+     gamma_user_467 
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     Friend Added
+     "suggesting friends is a cool feature." 
+     alpha_user_159 alpha_user_210 alpha_user_213 alpha_user_216 alpha_user_369 alpha_user_381 
+     Post added
+     "just finished the col106 assignment!" 
+     Friend Added
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "thinking about degrees of separation." 
+       Degree of Separation of users:6
+     Friend Added
+     gamma_user_263 
+       Degree of Separation of users:6
+     Friend Added
+     gamma_user_119 
+     beta_user_55 gamma_user_137 alpha_user_138 alpha_user_144 alpha_user_171 alpha_user_252 alpha_user_258 
+     "just finished the col106 assignment!" 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:5
+     Users are not connected
+     Post added
+     Friend Added
+     Post added
+     Users are not connected
+     "thinking about degrees of separation." 
+       Degree of Separation of users:5
+     alpha_user_132 alpha_user_243 beta_user_109 beta_user_253 beta_user_310 gamma_user_113 gamma_user_203 gamma_user_359 
+     Friend Added
+     "suggesting friends is a cool feature." 
+     alpha_user_117 alpha_user_210 alpha_user_312 
+     "my avl tree is perfectly balanced." 
+     Friend Added
+     beta_user_124 beta_user_133 beta_user_139 beta_user_367 beta_user_55 beta_user_67 
+     Post added
+     "this is a test post." 
+     alpha_user_69 gamma_user_203 
+     Friend Added
+     alpha_user_375 alpha_user_51 alpha_user_9 beta_user_157 gamma_user_116 gamma_user_26 
+       Degree of Separation of users:7
+     alpha_user_165 alpha_user_210 gamma_user_101 gamma_user_8 
+     alpha_user_129 alpha_user_30 alpha_user_300 alpha_user_351 alpha_user_426 beta_user_370 beta_user_91 gamma_user_20 
+     Post added
+     Friend Added
+       Degree of Separation of users:7
+     No mutual friends
+     beta_user_13 alpha_user_45 alpha_user_9 alpha_user_93 gamma_user_128 gamma_user_158 gamma_user_266 
+     alpha_user_123 alpha_user_339 alpha_user_465 beta_user_265 beta_user_379 gamma_user_14 
+       Degree of Separation of users:5
+     Friend Added
+     "random thoughts 123 !@#" 
+     Post added
+     alpha_user_300 alpha_user_129 alpha_user_30 alpha_user_306 alpha_user_351 alpha_user_426 beta_user_202 beta_user_244 beta_user_286 
+     beta_user_283 gamma_user_38 
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     "random thoughts 123 !@#" 
+     alpha_user_15 alpha_user_21 
+       Degree of Separation of users:5
+     No mutual friends
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Post added
+     alpha_user_15 alpha_user_21 alpha_user_231 alpha_user_360 alpha_user_93 
+     Friend Added
+     Users are not connected
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+       Degree of Separation of users:3
+     Friend Added
+     Friend Added
+     Post added
+     "graphs are fascinating data structures." 
+     "suggesting friends is a cool feature." 
+       Degree of Separation of users:4
+     alpha_user_117 alpha_user_222 alpha_user_255 alpha_user_312 alpha_user_33 alpha_user_459 alpha_user_72 alpha_user_78 beta_user_13 
+     No mutual friends
+     Post added
+     "just finished the col106 assignment!" 
+     alpha_user_159 alpha_user_210 alpha_user_369 alpha_user_93 beta_user_469 gamma_user_104 gamma_user_128 gamma_user_440 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     No mutual friends
+     Friend Added
+       Degree of Separation of users:7
+     Friend Added
+     gamma_user_140 
+       Degree of Separation of users:6
+     beta_user_409 gamma_user_380 gamma_user_479 
+       Degree of Separation of users:4
+     Post added
+     Friend Added
+     beta_user_49 
+       Degree of Separation of users:3
+     alpha_user_204 alpha_user_309 gamma_user_293 gamma_user_419 
+     alpha_user_369 beta_user_277 alpha_user_210 alpha_user_474 alpha_user_495 alpha_user_93 beta_user_19 beta_user_217 
+     alpha_user_165 beta_user_499 gamma_user_386 
+     Friend Added
+     "hello world" 
+     alpha_user_282 beta_user_154 beta_user_499 
+     "graphs are fascinating data structures." 
+     alpha_user_162 alpha_user_483 beta_user_178 beta_user_259 
+     Friend Added
+     alpha_user_39 alpha_user_135 alpha_user_429 alpha_user_447 alpha_user_465 beta_user_115 
+     Post added
+     Friend Added
+     alpha_user_447 beta_user_388 beta_user_49 gamma_user_143 gamma_user_380 
+     gamma_user_125 
+     "another post" 
+     alpha_user_309 beta_user_220 gamma_user_56 
+     Friend Added
+     beta_user_154 beta_user_457 gamma_user_209 
+     Friend Added
+     "graphs are fascinating data structures." 
+     Post added
+     alpha_user_159 beta_user_277 gamma_user_41 
+     alpha_user_117 gamma_user_140 alpha_user_0 
+     No mutual friends
+     Post added
+     alpha_user_18 alpha_user_39 alpha_user_489 beta_user_64 gamma_user_35 
+     Friend Added
+       Degree of Separation of users:5
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     Friend Added
+     alpha_user_21 alpha_user_72 beta_user_205 beta_user_61 gamma_user_122 gamma_user_302 
+     Post added
+     Post added
+     "another post" 
+     Friend Added
+     alpha_user_15 
+     Friend Added
+     alpha_user_411 gamma_user_158 gamma_user_230 
+     Users are not connected
+     alpha_user_126 alpha_user_249 alpha_user_279 alpha_user_6 alpha_user_63 alpha_user_81 beta_user_196 beta_user_271 
+     alpha_user_0 alpha_user_12 alpha_user_297 beta_user_202 beta_user_217 beta_user_328 
+     alpha_user_144 alpha_user_246 
+     Post added
+     Friend Added
+     Friend Added
+       Degree of Separation of users:4
+     alpha_user_279 beta_user_112 
+     alpha_user_135 alpha_user_381 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     "just finished the col106 assignment!" 
+       Degree of Separation of users:4
+     alpha_user_12 alpha_user_414 alpha_user_6 beta_user_13 beta_user_235 
+     alpha_user_12 alpha_user_210 gamma_user_140 gamma_user_176 gamma_user_257 
+     Friend Added
+     alpha_user_456 alpha_user_99 beta_user_451 gamma_user_434 
+     Friend Added
+     Post added
+     alpha_user_300 
+     alpha_user_135 alpha_user_381 
+     Friend Added
+       Degree of Separation of users:6
+     "just finished the col106 assignment!" 
+     No mutual friends
+     Friend Added
+     gamma_user_158 
+       Degree of Separation of users:5
+     alpha_user_33 alpha_user_6 alpha_user_93 beta_user_19 beta_user_217 beta_user_337 
+     Post added
+     Post added
+     Friend Added
+     Post added
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     "just finished the col106 assignment!" 
+     "just finished the col106 assignment!" 
+     beta_user_10 
+     "just finished the col106 assignment!" 
+     Friend Added
+     alpha_user_243 alpha_user_267 alpha_user_432 alpha_user_63 alpha_user_69 beta_user_109 
+     Friend Added
+     beta_user_13 alpha_user_411 
+     Friend Added
+     "suggesting friends is a cool feature." 
+     alpha_user_15 alpha_user_21 alpha_user_279 alpha_user_360 alpha_user_423 alpha_user_60 beta_user_151 
+     alpha_user_306 alpha_user_72 beta_user_286 beta_user_490 
+     "graphs are fascinating data structures." 
+       Degree of Separation of users:3
+     alpha_user_42 alpha_user_84 beta_user_43 beta_user_61 gamma_user_20 
+     Post added
+       Degree of Separation of users:5
+     alpha_user_153 alpha_user_24 beta_user_118 beta_user_127 beta_user_301 beta_user_475 gamma_user_38 gamma_user_86 
+     Friend Added
+     Post added
+       Degree of Separation of users:5
+     Post added
+     Friend Added
+     alpha_user_12 beta_user_256 beta_user_388 beta_user_442 beta_user_457 
+     Friend Added
+       Degree of Separation of users:4
+       Degree of Separation of users:4
+     Post added
+     alpha_user_12 alpha_user_120 beta_user_193 beta_user_382 
+     Post added
+     Post added
+     alpha_user_129 alpha_user_132 alpha_user_330 alpha_user_51 beta_user_118 beta_user_127 beta_user_322 gamma_user_131 gamma_user_257 
+     alpha_user_288 gamma_user_230 gamma_user_8 
+     Friend Added
+       Degree of Separation of users:4
+     alpha_user_105 alpha_user_198 alpha_user_219 beta_user_13 beta_user_61 
+     Friend Added
+     "my avl tree is perfectly balanced." 
+     "another post" 
+       Degree of Separation of users:5
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     alpha_user_129 alpha_user_132 alpha_user_330 alpha_user_51 beta_user_118 beta_user_127 beta_user_322 gamma_user_131 
+     Friend Added
+     Post added
+     Friend Added
+     Post added
+     "hello world" 
+     Friend Added
+     beta_user_340 beta_user_379 gamma_user_305 
+     alpha_user_234 alpha_user_246 alpha_user_327 
+       Degree of Separation of users:4
+     "suggesting friends is a cool feature." 
+     Friend Added
+     "this is a test post." 
+     "another post" 
+     "this is a test post." 
+     alpha_user_255 
+     alpha_user_162 alpha_user_186 alpha_user_90 beta_user_178 beta_user_259 
+     Friend Added
+     "a long post with multiple words to test parsing." 
+     beta_user_412 gamma_user_104 gamma_user_137 alpha_user_150 alpha_user_213 alpha_user_24 
+     alpha_user_357 alpha_user_417 gamma_user_161 gamma_user_347 gamma_user_8 
+     alpha_user_243 alpha_user_69 beta_user_238 beta_user_67 gamma_user_101 gamma_user_254 
+     Friend Added
+     beta_user_286 beta_user_442 gamma_user_266 
+     Post added
+     Post added
+     Friend Added
+     alpha_user_486 beta_user_4 beta_user_64 gamma_user_20 gamma_user_365 
+     Friend Added
+       Degree of Separation of users:7
+     alpha_user_117 
+     alpha_user_93 alpha_user_168 
+     Post added
+       Degree of Separation of users:5
+     beta_user_331 gamma_user_161 gamma_user_230 gamma_user_26 gamma_user_440 
+     Post added
+     alpha_user_261 alpha_user_471 beta_user_13 beta_user_163 beta_user_214 beta_user_334 gamma_user_419 gamma_user_62 
+     Post added
+       Degree of Separation of users:2
+     alpha_user_357 beta_user_28 gamma_user_179 
+     alpha_user_15 alpha_user_51 beta_user_115 beta_user_208 beta_user_25 beta_user_265 beta_user_271 beta_user_418 beta_user_472 
+     Friend Added
+     gamma_user_275 
+     alpha_user_348 gamma_user_245 gamma_user_341 
+       Degree of Separation of users:5
+     Friend Added
+     alpha_user_54 gamma_user_140 
+     alpha_user_261 alpha_user_57 beta_user_148 beta_user_187 gamma_user_497 
+     Friend Added
+     "graphs are fascinating data structures." 
+     Post added
+       Degree of Separation of users:4
+     Friend Added
+     "graphs are fascinating data structures." 
+     Friend Added
+       Degree of Separation of users:4
+     alpha_user_21 alpha_user_90 gamma_user_407 alpha_user_120 alpha_user_15 alpha_user_207 alpha_user_210 alpha_user_231 
+     "my avl tree is perfectly balanced." 
+     Friend Added
+     alpha_user_21 alpha_user_90 gamma_user_407 alpha_user_120 
+     beta_user_199 beta_user_361 beta_user_76 gamma_user_203 gamma_user_41 
+     "another post" 
+     "another post" 
+     "just finished the col106 assignment!" 
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+     "hello world" 
+     Friend Added
+     gamma_user_143 gamma_user_17 gamma_user_170 gamma_user_182 gamma_user_257 gamma_user_353 
+       Degree of Separation of users:5
+       Degree of Separation of users:3
+     alpha_user_177 alpha_user_330 alpha_user_36 beta_user_304 gamma_user_140 gamma_user_329 gamma_user_443 gamma_user_8 
+     "another post" 
+     Friend Added
+     Friend Added
+     "graphs are fascinating data structures." 
+     Friend Added
+     Post added
+     Post added
+     Friend Added
+       Degree of Separation of users:5
+       Degree of Separation of users:3
+     alpha_user_117 alpha_user_12 
+     Post added
+     Friend Added
+     Friend Added
+     Friend Added
+     Post added
+       Degree of Separation of users:4
+       Degree of Separation of users:6
+     alpha_user_186 alpha_user_201 alpha_user_24 alpha_user_318 alpha_user_321 
+     Post added
+     alpha_user_117 alpha_user_153 alpha_user_492 beta_user_295 beta_user_310 beta_user_355 gamma_user_161 
+       Degree of Separation of users:4
+       Degree of Separation of users:4
+     gamma_user_14 gamma_user_35 
+     Friend Added
+     Post added
+     alpha_user_129 alpha_user_174 beta_user_31 beta_user_460 beta_user_55 gamma_user_128 
+     alpha_user_282 alpha_user_261 alpha_user_408 alpha_user_498 
+     alpha_user_333 alpha_user_357 
+     alpha_user_81 alpha_user_0 alpha_user_300 
+     Friend Added
+     Friend Added
+     beta_user_163 
+     "just finished the col106 assignment!" 
+     "a long post with multiple words to test parsing." 
+     Friend Added
+     Post added
+     beta_user_349 gamma_user_113 gamma_user_413 
+     "random thoughts 123 !@#" 
+     Friend Added
+     Friend Added
+       Degree of Separation of users:5
+     "a long post with multiple words to test parsing." 
+     "graphs are fascinating data structures." 
+     alpha_user_492 beta_user_136 beta_user_163 beta_user_178 
+       Degree of Separation of users:5
+     alpha_user_0 beta_user_250 gamma_user_182 gamma_user_50 gamma_user_8 
+       Degree of Separation of users:6
+     Friend Added
+     "another post" 
+     Post added
+     Post added
+     beta_user_64 gamma_user_119 gamma_user_287 
+     alpha_user_243 alpha_user_69 beta_user_238 beta_user_67 gamma_user_101 gamma_user_254 
+       Degree of Separation of users:4
+     "my avl tree is perfectly balanced." 
+     Post added
+     beta_user_277 gamma_user_17 
+     gamma_user_2 
+       Degree of Separation of users:4
+     alpha_user_0 beta_user_253 gamma_user_149 gamma_user_236 
+     alpha_user_15 alpha_user_21 alpha_user_231 alpha_user_279 alpha_user_60 beta_user_151 beta_user_34 beta_user_448 
+     Friend Added
+     Friend Added
+       Degree of Separation of users:4
+     Friend Added
+     Friend Added
+     beta_user_211 gamma_user_299 
+     Friend Added
+     Post added
+     alpha_user_0 beta_user_16 beta_user_211 gamma_user_197 gamma_user_413 gamma_user_53 
+     "random thoughts 123 !@#" 
+     Post added
+     beta_user_52 beta_user_55 gamma_user_128 alpha_user_123 alpha_user_129 alpha_user_15 alpha_user_174 
+     Friend Added
+     Post added
+     Friend Added
+     alpha_user_135 alpha_user_249 alpha_user_51 beta_user_196 beta_user_217 beta_user_61 gamma_user_203 gamma_user_350 
+     Friend Added
+     Friend Added
+     Post added
+     Friend Added
+     Friend Added
+     alpha_user_150 alpha_user_213 beta_user_133 gamma_user_479 
+     No friends
+     Friend Added
+     Friend Added
+     Post added
+       Degree of Separation of users:6
+     Friend Added
+     "another post" 
+     "a long post with multiple words to test parsing." 
+     "graphs are fascinating data structures." 
+     Friend Added
+     Friend Added
+     Post added
+     No friends
+       Degree of Separation of users:5
+     alpha_user_201 alpha_user_24 beta_user_229 gamma_user_146 
+     alpha_user_177 alpha_user_330 beta_user_223 
+     alpha_user_12 alpha_user_342 beta_user_217 gamma_user_80 
+     alpha_user_150 beta_user_118 beta_user_280 beta_user_412 gamma_user_104 
+     Post added
+     alpha_user_18 beta_user_151 beta_user_382 gamma_user_173 gamma_user_269 
+       Degree of Separation of users:5
+     Friend Added
+     Post added
+     alpha_user_123 alpha_user_135 alpha_user_339 
+     "a long post with multiple words to test parsing." 
+     "this is a test post." 
+       Degree of Separation of users:2
+       Degree of Separation of users:5
+     Post added
+     Friend Added
+     Post added
+       Degree of Separation of users:5
