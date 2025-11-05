@@ -1,0 +1,88 @@
+The objective of this assignment is to build SocialNet, a command-line simulator for a social network’s
+ backend services. It implements functionalities for managing users, friendships, and content.
+ The primary goal is to apply the concept of AVL Trees and Graphs to a complex, practical
+ application.
+
+How to run the file?
+    - On WIndows, run get.bat file and type the commands
+    - On Linux perform it on get.sh file
+
+
+Files included:
+1. header.cpp - Contains the AVL Tree, Node structure and imports the neccessary libraries used for storing posts in order.
+2. code.cpp - Implements the SocialNet class with all main features like user handling, friends, posts, and suggestions.
+3. main.cpp - Handles input commands and executes the corresponding actions.
+4. input.txt - Sample input file.
+5. readme.txt - About the file
+
+Supported commands:
+
+ADD_USER <username> Adds a new user to the network, initially with no friends and no posts.
+
+ADD_FRIEND <username1> <username2> Establishesabidirectional friendship between two existing usernames.
+LIST_FRIENDS <username> Prints an alphabetically sorted list of the specified username’s friends.
+SUGGEST_FRIENDS <username> <N> Recommends up to N new friends who are ”friends of a friend”
+ but not already friends.
+ • Ranking: Recommendations are ranked by the number of mutual friends (descending). Ties are
+ broken by alphabetical order of usernames.
+ • Edge Cases: If N is 0, output nothing. If fewer than N candidates exist, list all available.
+
+DEGREES_OF_SEPARATION <username1> <username2> Calculates the length of the shortest path of
+ friendships between two usernames. If no path exists, reports-1.
+
+ADD_POST <username> "<post content>" Add a post whose content is the postto the posts created by the specified user.
+ content string,
+OUTPUT_POSTS <username> <N> Output the most recent N posts of the user, in reverse chronological
+ order. If N is-1, you should output all the posts by the user. If there are fewer than N posts by the user,
+ then list all available posts.
+ Note: Usernamesandpostcontentsarenotcase-sensitive. Forexample,theusernames Lakshay
+ and lakshay are identical
+
+Edge cases and how they’re handled:
+
+1. Duplicate users:
+   If a username already exists (even with different cases), the program prints a message like "user <name> exists".
+
+2. Missing users:
+   Any command involving a user that hasn’t been created yet prints "user <name> does not exist".
+
+3. Empty usernames:
+   Adding an empty username ("") doesn’t crash the program, though it’s not ideal. It’s still handled safely.
+
+4. Self-friendship or duplicate friendships:
+   If a user tries to friend themselves or re-add the same friend, the program detects it and avoids duplication.
+
+5. Post handling:
+   - If a user doesn’t exist, it prints an error.
+   - Empty or blank posts are still accepted but don’t cause errors.
+   - Asking for more posts than available prints all of them.
+   - Using OUTPUT_POSTS with -1 shows every post.
+
+6. Degrees of separation:
+   - If the two users aren’t connected, it prints "No connection found."
+   - If both names are the same, it shows 0.
+   - Non-existent users are reported clearly.
+
+7. Friend suggestions:
+   - If a user has no friends, no suggestions are shown.
+   - Suggestions are based on mutual friends and sorted by frequency.
+   - If 0 suggestions are requested, nothing is printed.
+
+P.S: 
+All usernames are treated in lowercase to avoid case sensitivity issues. 
+Posts are stored using an AVL Tree, ensuring they remain balanced and ordered. 
+Each function checks inputs carefully so the program can handle invalid cases without crashing.
+
+Example input:
+ADD_USER Alice
+ADD_USER Bob
+ADD_FRIEND Alice Bob
+ADD_POST Alice "Hello world!"
+OUTPUT_POSTS Alice -1
+END
+
+Expected output:
+posts:
+hello world!
+
+It can be further improved by implementing delete operations aswell
